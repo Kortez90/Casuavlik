@@ -1,0 +1,132 @@
+﻿# standard costs
+@maa_buy_cost = 150
+@maa_low_maintenance_cost = 1.0
+@maa_high_maintenance_cost = 5.0
+
+almogaver = {
+	type = skirmishers
+	
+	damage = 22
+	toughness = 16
+	pursuit = 20
+	screen = 21
+		
+	terrain_bonus = {
+		mountains = {damage = 8 toughness = 4  }
+		hills = { damage = 4 toughness = 2 }
+		plains = { damage = 2 toughness = 1 }
+	}
+	
+	counters = {
+		skirmishers = 2
+		heavy_infantry = 1
+	}
+
+	winter_bonus = {
+		normal_winter = { damage = 6 toughness = 3 }
+		harsh_winter = { damage = 3 toughness = 1 }
+	}
+
+	buy_cost = { gold = 60 }
+	low_maintenance_cost = { gold = 0.20 }
+	high_maintenance_cost = { gold = 0.60 }
+	
+	stack = 100
+	ai_quality = { value = culture_ai_weight_skirmishers }
+	icon = almogavers
+}
+
+wardogs = {
+	type = light_cavalry
+	
+	damage = 15
+	toughness = 15
+	pursuit = 22
+	screen = 5
+		
+	terrain_bonus = {
+		plains = { damage = 5 pursuit = 6 }
+		forest = { toughness = 5 screen = 6 }
+	}
+	
+	counters = {
+		light_cavalry = 1
+		archers = 1
+	}
+
+	winter_bonus = {
+		harsh_winter = { damage = -5 toughness = -2 }
+	}
+
+	buy_cost = { gold = 30 piety = 25 }
+	low_maintenance_cost = { gold = 0.10 }
+	high_maintenance_cost = { gold = 0.30 }
+	
+	stack = 33
+	ai_quality = { value = culture_ai_weight_light_cavalry }
+	icon = wardogs
+}
+
+ataman = {
+	type = light_cavalry
+	
+	damage = 20
+	toughness = 15
+	pursuit = 20
+	screen = 5
+		
+	terrain_bonus = {
+		plains = { damage = 5 pursuit = 6 }
+		forest = { toughness = 5 screen = 6 }
+	}
+	
+	counters = {
+		skirmishers = 1
+		archers = 1
+	}
+
+	winter_bonus = {
+		harsh_winter = { damage = -5 toughness = -2 }
+	}
+
+	buy_cost = { gold = 35 piety = 35 }
+	low_maintenance_cost = { gold = 0.10 }
+	high_maintenance_cost = { gold = 0.20 }
+	
+	stack = 50
+	ai_quality = { value = culture_ai_weight_light_cavalry }
+	icon = ataman
+}
+
+incendiarypigs = {
+	type = siege_weapon
+	
+	damage = 5
+	toughness = 5
+	pursuit = 5
+	screen = 5
+		
+	siege_tier = 1
+	siege_value = 0.1
+
+	terrain_bonus = {
+		plains = { pursuit = 5 }
+		farmlands = { pursuit = 5 }
+	}
+	
+	counters = {
+		heavy_cavalry = 3
+	}
+
+	winter_bonus = {
+		harsh_winter = { damage = -5 toughness = -2 }
+	}
+
+	buy_cost = { gold = 30 prestige = 25 }
+	low_maintenance_cost = { gold = 0.10 }
+	high_maintenance_cost = { gold = 0.30 }
+	
+	stack = 33
+	ai_quality = { value = culture_ai_weight_siege_weapon }
+	icon = incendiarypigs
+}

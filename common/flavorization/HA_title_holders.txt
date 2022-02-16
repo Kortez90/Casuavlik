@@ -1,0 +1,43 @@
+﻿king_feudal_male_kossack = {
+	type = character
+	gender = male
+	special = holder
+	tier = kingdom
+	priority = 47
+	governments = { feudal_government }
+	name_lists = { name_list_kossack }
+}
+king_feudal_female_kossack = {
+	type = character
+	gender = female
+	special = holder
+	tier = kingdom
+	priority = 47
+	governments = { feudal_government }
+	name_lists = { name_list_kossack }
+}
+kingdom_feudal_kossack = {
+	type = title
+	tier = kingdom
+	priority = 47
+	governments = { feudal_government }
+	name_lists = { name_list_kossack }
+}
+emperor_feudal_male_kossack = {
+	type = character
+	gender = male
+	special = holder
+	tier = empire
+	priority = 107
+	governments = { feudal_government }
+	name_lists = { name_list_kossack }
+}
+emperor_feudal_female_kossack = {
+	type = character
+	gender = female
+	special = holder
+	tier = empire
+	priority = 107
+	governments = { feudal_government }
+	name_lists = { name_list_kossack }
+}
