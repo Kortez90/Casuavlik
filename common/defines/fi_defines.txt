@@ -1,0 +1,5 @@
+﻿NCulture = {
+
+	INNOVATION_PROGRESS_GAIN_BASE = 0.6
+
+}
