@@ -35,7 +35,7 @@
 							has_doctrine_parameter = no_head_of_faith
 							NOT = { exists = religious_head }
 						}
-						has_doctrine = doctrine_theocracy_lay_clergy
+						has_doctrine = doctrine_theocraty_lay_clergy
 					}
 				}
 				desc = task_religious_relations_effect_no_hof_layman_clergy_desc_opinion
@@ -124,7 +124,7 @@
 
 	council_owner_modifier = {
 		name = court_chaplain_religious_relations_opinion_modifier
-		theocracy_government_opinion_same_faith = 1
+		theocraty_government_opinion_same_faith = 1
 		scale = court_chaplain_religious_relations_opinion_modifier
 	}
 

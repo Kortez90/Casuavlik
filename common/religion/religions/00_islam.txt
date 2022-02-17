@@ -33,7 +33,7 @@
 	#Righteous
 	doctrine = doctrine_pluralism_righteous
 	#Lay clergy
-	doctrine = doctrine_theocracy_lay_clergy
+	doctrine = doctrine_theocraty_lay_clergy
 	#Zakat clerical function
 	doctrine = doctrine_clerical_function_alms_and_pacification
 	#Exclusively male clergy
