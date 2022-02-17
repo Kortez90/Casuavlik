@@ -1,0 +1,4 @@
+﻿culture_era_renaissance = {
+	year = 1340
+	invalid_for_government = tribal_government
+}
