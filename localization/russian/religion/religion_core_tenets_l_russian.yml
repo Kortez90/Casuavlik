@@ -256,7 +256,7 @@
 
  tenet_unreformed_syncretism_name:0 "Синкретические традиции"
  tenet_unreformed_syncretism_desc:0 "Кто мы такие, чтобы говорить людям, что их традиции неверны? Мы не должны отрывать их от корней и запрещать обычаи, которым много сотен лет: нам стоит прислушаться к ним и постараться понять."
- doctrine_parameter_hostility_override_unreformed_faith_doctrine:2 "Считает, что [faiths|El], имеющие доктрину «[GetFaithDoctrine('unreformed_faith_doctrine_name').GetName]», — [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V], а не $hostility_evil_tooltippable$. Эти [faiths|El] отвечают тем же."
+ doctrine_parameter_hostility_override_unreformed_faith_doctrine:2 "Считает, что [faiths|El], имеющие доктрину «[GetFaithDoctrine('unreformed_faith_doctrine').GetName]», — [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V], а не $hostility_evil_tooltippable$. Эти [faiths|El] отвечают тем же."
  doctrine_parameter_unreformed_syncretic_actor_opinion_active:2 "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] к [Concept( 'opinion', 'мнению' )|E] персонажей, чья [Concept( 'faiths', 'конфессия' )|E] [GetFaithDoctrine('unreformed_faith_doctrine').GetName|l]"
  doctrine_parameter_opinion_of_unreformed_syncretic_recipient_opinion_active:0 ""
  doctrine_parameter_unreformed_syncretic_recipient_opinion_active:1 "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] к [Concept( 'opinion', 'мнению' )|E] персонажей, принадлежащих к [Concept( 'faiths', 'конфессиям' )|E] с догматом «$tenet_unreformed_syncretism_name$»"
