@@ -760,7 +760,7 @@
 			holy_site = nizwa
 			holy_site = waddan
 			holy_site = surt
-			holy_site = zavila
+			holy_site = zawila
 
 			#Tenet
 			doctrine = tenet_literalism
