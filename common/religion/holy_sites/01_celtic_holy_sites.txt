@@ -2,7 +2,6 @@
 
 waddan = {		
 	county = c_waddan	
-	barony = b_waddan
 		
 	character_modifier = {	
 	name = holy_site_waddan_effect_name
@@ -12,7 +11,6 @@ waddan = {
 
 cadiz = {		
 	county = c_cadiz	
-	barony = b_cadiz
 		
 	character_modifier = {	
 	name = holy_site_cadiz_effect_name
@@ -23,7 +21,6 @@ cadiz = {
 
 alarcon = {		
 	county = c_alarcon
-	barony = b_alarcon
 		
 	character_modifier = {	
 	name = holy_site_alarcon_effect_name
@@ -34,7 +31,6 @@ alarcon = {
 
 denia = {		
 	county = c_denia	
-	barony = b_denia
 		
 	character_modifier = {	
 	name = holy_site_denia_effect_name
@@ -43,7 +39,7 @@ denia = {
 }
 
 surt = {		
-	county = c_surte	
+	county = c_syrte	
 	barony = b_ajadabiya
 		
 	character_modifier = {	
@@ -52,12 +48,12 @@ surt = {
 	}	
 }
 
-zavila = {		
-	county = c_zavila	
-	barony = b_zavila
+zawila = {		
+	county = c_zawila	
+	barony = b_zawila
 		
 	character_modifier = {	
-	name = holy_site_zavila_effect_name
+	name = holy_site_zawila_effect_name
 		cultural_head_fascination_mult = 0.1
 	}	
 }

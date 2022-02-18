@@ -63,7 +63,7 @@ innovation_ataman = {
 
 	potential = {
 		OR = {
-			this = culture:cossack
+			this = culture:kossack
 		}
 	}
 
