@@ -67,37 +67,6 @@ wardogs = {
 	icon = wardogs
 }
 
-ataman = {
-	type = light_cavalry
-	
-	damage = 20
-	toughness = 15
-	pursuit = 20
-	screen = 5
-		
-	terrain_bonus = {
-		plains = { damage = 5 pursuit = 6 }
-		forest = { toughness = 5 screen = 6 }
-	}
-	
-	counters = {
-		skirmishers = 1
-		archers = 1
-	}
-
-	winter_bonus = {
-		harsh_winter = { damage = -5 toughness = -2 }
-	}
-
-	buy_cost = { gold = 35 piety = 35 }
-	low_maintenance_cost = { gold = 0.10 }
-	high_maintenance_cost = { gold = 0.20 }
-	
-	stack = 50
-	ai_quality = { value = culture_ai_weight_light_cavalry }
-	icon = ataman
-}
-
 incendiarypigs = {
 	type = siege_weapon
 	

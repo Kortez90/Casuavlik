@@ -56,22 +56,6 @@ innovation_almogaver = {
 	flag = global_maa
 }
 
-innovation_ataman = {
-	group = culture_group_regional
-	culture_era = culture_era_early_medieval
-	icon = @ataman
-
-	potential = {
-		OR = {
-			this = culture:kossack
-		}
-	}
-
-	unlock_maa = cossack
-
-	flag = global_maa
-}
-
 innovation_wardog = {
 	group = culture_group_military
 	culture_era = culture_era_tribal

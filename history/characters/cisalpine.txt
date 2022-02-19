@@ -13437,7 +13437,7 @@
 167806 = {
 	name = "Vilfredo"
 	dynasty = 9555
-	religion = "catholic"
+	religion = "iconoclast"
 	culture = "cisalpine"
 	840.1.1 = {
 		birth = "840.1.1"
@@ -13913,7 +13913,7 @@
 167951 = {
 	name = "Rodolfo" # Rodolfo d'Auriate, Count of Cuneo (860-904)
 	dynasty = 9563
-	religion = "catholic"
+	religion = "iconoclast"
 	culture = "cisalpine"
 	trait = infirm
 	trait = education_martial_2
@@ -14205,7 +14205,7 @@
 167975 = {
 	name = "Alberico" # Alberico di Milano, Count of Lombardia (865-894)
 	dynasty = 9565
-	religion = "catholic"
+	religion = "iconoclast"
 	culture = "cisalpine"
 	trait = education_stewardship_2
 
@@ -14577,7 +14577,7 @@
 
 168008 = {
 	name = "Ansaldo" # Ansaldo di Genoa, placeholder Count of Genoa (860-895)
-	religion = "catholic"
+	religion = "iconoclast"
 	culture = "cisalpine"
 	trait = education_stewardship_1
 
@@ -14606,7 +14606,7 @@
 168334 = {
 	name = "Egilulf"
 	dynasty = 100354
-	religion = "catholic"
+	religion = "iconoclast"
 	culture = "cisalpine"
 	834.1.1 = {
 		birth = "834.1.1"
@@ -19252,7 +19252,7 @@ cisalpine0152 = {
 cisalpine0153 = {
 	name = "Guido" # Guido Torelli ' Salinguerra' (I), Podestá of Ferrara (1185-1194)
 	dynasty = 12252
-	religion = "catholic"
+	religion = "iconoclast"
 	culture = "cisalpine"
 	trait = education_intrigue_3
 
@@ -19290,7 +19290,7 @@ cisalpine0155 = {
 	name = "Bartolomea" # Bartolomea Torelli, wife of Jacopino Rangoni
 	dynasty = 12252
 	female = yes
-	religion = "catholic"
+	religion = "iconoclast"
 	culture = "cisalpine"
 
 	father = 73505
@@ -25074,7 +25074,7 @@ cisalpine0491 = {
 
 cisalpine0492 = {
 	name = "Deutemiro" # Deutemiro, Bishop of Novara (858-869)
-	religion = "catholic"
+	religion = "iconoclast"
 	culture = "cisalpine"
 	trait = theologian
 	trait = education_learning_3
