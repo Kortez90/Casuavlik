@@ -5,7 +5,7 @@
 	diplomacy = 8
 	intrigue = 8
 	stewardship = 6
-	religion = "orthodox"
+	religion = "iconoclast"
 	culture = "greek"
 	trait = education_martial_2
 	trait = strong
@@ -16713,7 +16713,7 @@
 145150 = {
 	name = "Pantherios" # D.Athens/C.Atheniai
 	dynasty = 627
-	religion = "orthodox"
+	religion = "nestorian"
 	culture = "greek"
 	father = 145149
 	trait = education_martial_2
@@ -16728,7 +16728,7 @@
 145151 = {
 	name = "Theodoros" # C.Hellas
 	dynasty = 627
-	religion = "orthodox"
+	religion = "iconoclast"
 	culture = "greek"
 	father = 145150
 	trait = education_diplomacy_3
@@ -20641,7 +20641,7 @@
 145931 = {
 	name = "Niketas"
 	dynasty = 1022275
-	religion = "iconoclast"
+	religion = "paulician"
 	culture = "greek"
 	trait = arrogant
 	trait = callous
@@ -20662,7 +20662,7 @@
 145932 = {
 	name = "Petronas"
 	dynasty = 101099
-	religion = "orthodox"
+	religion = "iconoclast"
 	culture = "greek"
 	trait = diligent
 	trait = scholar
@@ -20675,7 +20675,7 @@
 		religion = "iconoclast"
 	}
 	842.2.19 = {
-		religion = "orthodox"
+		religion = "iconoclast"
 	}
 	871.1.1 = {
 		death = "871.1.1"

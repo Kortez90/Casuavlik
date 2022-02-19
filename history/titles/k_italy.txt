@@ -1701,7 +1701,7 @@ c_cuneo = {
 		holder = 190330 # Liutprand Liutprandidi
 	}
 	867.1.1 = {
-		liege = 0
+		liege = d_friuli
 		holder = 167951  # Rodolfo d'Auriate
 	}
 	904.4.21 = {
@@ -1849,7 +1849,7 @@ c_lombardia = {
 	1066.1.1 = { change_development_level = 20 }
 	
 	766.1.1 = {
-		liege = 0
+		liege = d_friuli
 	}
 	766.1.1 = {
 		holder = 190320 # Paldo Paldidi
@@ -2018,7 +2018,7 @@ b_monza = {
 
 c_brescia = {
 	603.1.1 = {
-		liege = k_italy
+		liege = d_friuli
 		holder = 190175 # Nandinig Arodingi
 	}
 	626.1.1 = {
@@ -2737,7 +2737,7 @@ c_cremona = {
 		holder = lombard0153 # Pancoard, Bishop of Cremona
 	}
 	850.1.1 = {
-		holder = lombard0154 # Benedictus, Bishop of Cremona
+		holder = 163057
 	}
 	880.1.1 = {
 		holder = cisalpine0694 # Landone, Bishop of Cremona
@@ -3205,7 +3205,7 @@ c_genoa = {
 	1066.1.1 = { change_development_level = 12 }
 	
 	741.1.1 = {
-		liege = 0
+		liege = k_venice
 		holder = 190274 # Adalpert of Genoa
 	}
 	762.1.1 = {
@@ -3555,7 +3555,7 @@ c_modena = {
 		holder = 190322 #Lambert
 	}
 	855.9.20 = {
-		liege = "k_italy"
+		liege = d_friuli
 	}
 	855.9.20 = {
 		holder = 30228 #Louis II
@@ -3948,7 +3948,7 @@ c_pisa = {
 		holder = 190280 #Tachiperto
 	}
 	846.1.1 = {
-		liege = 0
+		liege = k_venice
 	}
 	846.1.1 = {
 		holder = 168364
@@ -4482,7 +4482,7 @@ c_lucca = {
 		holder = 190280
 	}
 	800.1.1 = {
-		liege = "d_toscana"
+		liege = d_friuli
 		holder = 167896 # Bonifacio I of Tuscany
 	}
 	823.10.5 = {
