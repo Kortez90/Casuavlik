@@ -194,7 +194,7 @@ k_italy = {
 
 d_friuli = {
 	591.1.1 = {
-		liege = k_italy
+		liege = 0
 	}
 	863.1.1 = {
 		holder = 163057 #Unruoch III Unruochinger
@@ -1849,7 +1849,7 @@ c_lombardia = {
 	1066.1.1 = { change_development_level = 20 }
 	
 	766.1.1 = {
-		liege = k_italy
+		liege = 0
 	}
 	766.1.1 = {
 		holder = 190320 # Paldo Paldidi
@@ -2640,7 +2640,7 @@ c_pavia = {
 c_cremona = {
 	590.9.5 = {
 		holder = 190170 # Agilolf of Italy
-		liege = k_italy
+		liege = 0
 	}
 	616.1.1 = {
 		holder = 190173 # Adaloald of Italy
