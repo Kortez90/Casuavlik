@@ -3221,7 +3221,7 @@
 
 	father = 73922
 
-	religion = "hellenism"
+	religion = "hellenic_pagan"
 	culture = "greek"
 
 	1068.1.1 = {
@@ -3238,7 +3238,7 @@
 
 	father = 73923
 
-	religion = "hellenism"
+	religion = "hellenic_pagan"
 	culture = "greek"
 
 	1096.1.1 = {
@@ -3255,7 +3255,7 @@
 
 	father = 73924
 
-	religion = "hellenism"
+	religion = "hellenic_pagan"
 	culture = "greek"
 
 	1122.1.1 = {
@@ -3272,7 +3272,7 @@
 
 	father = 73925
 
-	religion = hellenism
+	religion = hellenic_pagan
 	culture = greek
 
 	1150.1.1 = {
@@ -3287,7 +3287,7 @@
 	name = "Aziz"
 	dynasty = 12260
 	father = 73926
-	religion = "hellenism"
+	religion = "hellenic_pagan"
 	culture = "greek"
 	1177.1.1 = {
 		birth = "1177.1.1"
@@ -3303,7 +3303,7 @@
 159521 = {
 	name = "Isa" #
 	dynasty = 1029093
-	religion = "hellenism"
+	religion = "hellenic_pagan"
 	culture = "greek"
 	720.1.1 = {
 		birth = "720.1.1" #Unknown
@@ -3315,7 +3315,7 @@
 159522 = {
 	name = "Shuayb" #
 	dynasty = 1029093
-	religion = "hellenism"
+	religion = "hellenic_pagan"
 	culture = "greek"
 	father = 159521
 	740.1.1 = {
@@ -3328,7 +3328,7 @@
 159523 = {
 	name = "Hafs" #
 	dynasty = 1029093
-	religion = "hellenism"
+	religion = "hellenic_pagan"
 	culture = "greek"
 	father = 159522
 	760.1.1 = {
@@ -3341,7 +3341,7 @@
 159524 = {
 	name = "Umar" #
 	dynasty = 1029093
-	religion = "hellenism"
+	religion = "hellenic_pagan"
 	culture = "greek"
 	father = 159523
 	780.1.1 = {
@@ -3358,8 +3358,14 @@
 	name = "Shuayb" #
 	dynasty = 1029093
 	stewardship = 37
-	religion = "hellenism"
+	
+	religion = "hellenic_pagan"
 	culture = "greek"
+	trait = wounded_1
+	trait = education_stewardship_4
+	trait = crusader_king
+	trait = faith_warrior 
+	trait = adventurer
 	father = 159524
 	810.1.1 = {
 		birth = "810.1.1" #Unknown
@@ -3371,8 +3377,13 @@
 159526 = {
 	name = "Umar" #
 	dynasty = 1029093
-	religion = "hellenism"
+	religion = "hellenic_pagan"
 	culture = "greek"
+	trait = wounded_1
+	trait = heresiarch
+	trait = faith_warrior 
+	trait = blademaster_1
+	trait = adventurer
 	father = 159525
 	830.1.1 = {
 		birth = "830.1.1" #Unknown
@@ -3384,7 +3395,7 @@
 159527 = {
 	name = "Muhammad" #
 	dynasty = 1029093
-	religion = "hellenism"
+	religion = "hellenic_pagan"
 	culture = "greek"
 	father = 159525
 	835.1.1 = {
@@ -3397,7 +3408,7 @@
 159528 = {
 	name = "Yusuf" #
 	dynasty = 1029093
-	religion = "hellenism"
+	religion = "hellenic_pagan"
 	culture = "greek"
 	father = 159526
 	860.1.1 = {
@@ -3410,7 +3421,7 @@
 159529 = {
 	name = "Ahmad" #
 	dynasty = 1029093
-	religion = "hellenism"
+	religion = "hellenic_pagan"
 	culture = "greek"
 	father = 159526
 	860.1.1 = {
@@ -3423,7 +3434,7 @@
 159530 = {
 	name = "Ali" #
 	dynasty = 1029093
-	religion = "hellenism"
+	religion = "hellenic_pagan"
 	culture = "greek"
 	father = 159528
 	900.1.1 = {
@@ -3436,7 +3447,7 @@
 159531 = {
 	name = "Shuayb" #
 	dynasty = 1029093
-	religion = "hellenism"
+	religion = "hellenic_pagan"
 	culture = "greek"
 	father = 159529
 	900.1.1 = {
@@ -3449,7 +3460,7 @@
 159532 = {
 	name = "Ali" #
 	dynasty = 1029093
-	religion = "hellenism"
+	religion = "hellenic_pagan"
 	culture = "greek"
 	father = 159529
 	905.1.1 = {
@@ -3462,7 +3473,7 @@
 159533 = {
 	name = "Abd_al-Aziz" #
 	dynasty = 1029093
-	religion = "hellenism"
+	religion = "hellenic_pagan"
 	culture = "greek"
 	father = 159531
 	920.1.1 = {
@@ -3475,7 +3486,7 @@
 159534 = {
 	name = "Al-Numan" # Anemas
 	dynasty = 1029093
-	religion = "hellenism"
+	religion = "hellenic_pagan"
 	culture = "greek"
 	father = 159531
 	940.1.1 = {

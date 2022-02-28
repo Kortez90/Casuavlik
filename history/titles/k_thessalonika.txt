@@ -847,7 +847,7 @@ d_strymon = {
 
 c_mosynopolis = {
 	330.1.1 = {
-		liege = "d_thessalonika"
+		liege = "e_byzantium"
 	}
 	756.1.1 = {
 		holder = 145815
@@ -927,7 +927,7 @@ c_mosynopolis = {
 
 c_serres = {
 	330.1.1 = {
-		liege = "d_thessalonika"
+		liege = "e_byzantium"
 	}
 	756.1.1 = {
 		holder = 145815
@@ -1006,7 +1006,7 @@ c_serres = {
 
 d_aegean_islands = {
 	330.1.1 = {
-		liege = "k_krete"
+		liege = "e_byzantium"
 	}
 	762.1.1 = {
 		holder = 145819
@@ -1122,7 +1122,7 @@ c_abydos = {
 	1066.1.1 = { change_development_level = 12 }
 	
 	330.1.1 = {
-		liege = "d_aegean_islands"
+		liege = "e_byzantium"
 	}
 	762.1.1 = {
 		holder = 145819
@@ -1445,13 +1445,14 @@ c_rhodos = {
 
 d_thessalonika = {
 	330.1.1 = {
-		liege = "e_byzantium"
+		liege = "k_hellas"
 	}
 	754.1.1 = {
 		holder = 145814
 	}
 	855.1.1 = {
-		holder = 145185
+		holder = 145150
+		liege = d_athens
 	}
 	1030.1.1 = {
 		holder = 1744
@@ -1546,13 +1547,14 @@ d_thessalonika = {
 
 c_thessalonika = {
 	330.1.1 = {
-		liege = "d_thessalonika"
+		liege = "d_athens"
 	}
 	754.1.1 = {
 		holder = 145814
 	}
 	855.1.1 = {
 		holder = 145185
+		liege = "d_athens"
 	}
 	1050.1.1 = {
 		holder = 1732
@@ -1632,13 +1634,14 @@ c_chalkidike = {
 	1066.1.1 = { change_development_level = 12 }
 	
 	330.1.1 = {
-		liege = "d_thessalonika"
+		liege = d_krete
 	}
 	756.1.1 = {
-		holder = 145815
+		holder = 159525
 	}
 	855.1.1 = {
 		holder = 145108
+		liege = d_krete
 	}	
 	1060.1.1 = {
 		holder = 41308	#Nikephoros Basiliakos, strategos of Thessalonika
@@ -1708,13 +1711,14 @@ c_chalkidike = {
 
 c_veria = {
 	330.1.1 = {
-		liege = "d_thessalonika"
+		liege = "d_athens"
 	}
 	754.1.1 = {
 		holder = 145814
 	}
 	855.1.1 = {
-		holder = 145185
+		holder = 145150
+		liege = d_athens
 	}
 	1050.1.1 = {
 		holder = 1732
@@ -1791,7 +1795,7 @@ c_veria = {
 
 d_thessaly = {
 	330.1.1 = {
-		liege = "e_byzantium"
+		liege = "k_hellas"
 	}
 	733.1.1 = {
 		holder = 145802
@@ -1871,7 +1875,7 @@ d_thessaly = {
 
 c_thessalia = {
 	330.1.1 = {
-		liege = "d_thessalonika"
+		liege = "d_athens"
 	}
 	751.1.1 = {
 		holder = 145816
@@ -2085,7 +2089,7 @@ c_neopatras = {
 
 c_thessaliotis = {
 	330.1.1 = {
-		liege = "d_thessalonika"
+		liege = "d_athens"
 	}
 	751.1.1 = {
 		holder = 145816

@@ -96,7 +96,7 @@
 ###c_serres
 3771 = {	#Serres
 	culture = greek
-	religion = orthodox
+	religion = iconoclast
 	holding = castle_holding
 }
 3770 = {	#Siderokastron
@@ -117,7 +117,7 @@
 ###c_naxos
 484 = {		#Naxos
 	culture = greek
-	religion = hellenism
+	religion = hellenic_pagan
 	holding = castle_holding
 }
 3757 = {	#Thera AKA Santorini
@@ -167,7 +167,7 @@
 ###c_lesbos
 487 = {		#Lesbos
 	culture = greek
-	religion = hellenism
+	religion = hellenic_pagan
 	holding = castle_holding
 }
 3752 = {	#Lemnos
@@ -181,7 +181,7 @@
 ###c_chios
 486 = {		#Chios
 	culture = greek
-	religion = hellenism
+	religion = hellenic_pagan
 	holding = castle_holding
 }
 3754 = {	#Samos
@@ -191,7 +191,7 @@
 ###c_rhodos
 483 = {		#Rhodos
 	culture = greek
-	religion = hellenism
+	religion = hellenic_pagan
 	holding = castle_holding
 	1066.1.1 = {
 		buildings = {
@@ -215,7 +215,7 @@
 ###c_thessalonika
 490 = {		#Thessalonike / b_thessaloniki
 	culture = greek
-	religion = orthodox
+	religion = iconoclast
 	holding = castle_holding
 	867.1.1 = {
 		buildings = {
@@ -254,7 +254,7 @@
 ###c_chalkidike
 491 = {		#Polygyros
 	culture = greek
-	religion = orthodox
+	religion = hellenic_pagan
 	holding = castle_holding
 	867.1.1 = {
 		#Placed here to let the county holder control the mine
@@ -276,7 +276,7 @@
 ###c_veria
 3784 = {	#Veria
 	culture = greek
-	religion = orthodox
+	religion = iconoclast
 	holding = castle_holding
 }
 3781 = {	#Maglen
@@ -297,7 +297,7 @@
 ###c_thessalia
 489 = {		#Thessalia
 	culture = greek
-	religion = orthodox
+	religion = hellenic_pagan
 	holding = castle_holding
 	#1205 - 4th crusade, kingdom of Thessaloniki
 	#1225 - To the despotate of Epirus and Serbian empire
@@ -318,7 +318,7 @@
 ###c_demetrias
 488 = {		#Demetrias
 	culture = greek
-	religion = orthodox
+	religion = hellenic_pagan
 	holding = castle_holding
 }
 3789 = {	#Velestino
@@ -332,7 +332,7 @@
 ###c_neopatras
 3793 = {	#Neopatras
 	culture = greek
-	religion = orthodox
+	religion = iconoclast
 	holding = castle_holding
 }
 3791 = {	#Domokos
@@ -348,7 +348,7 @@
 ###c_thessaliotis
 3797 = {	#Trikala
 	culture = greek
-	religion = orthodox
+	religion = iconoclast
 	holding = castle_holding
 }
 3795 = {	#Grevena

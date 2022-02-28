@@ -19,7 +19,7 @@
 	
 	# Misc
 	culture = greek
-	religion = hellenism
+	religion = hellenic_pagan
 	terrain = mountain
 	
 	# History
@@ -59,7 +59,7 @@
 	
 	# Misc
 	culture = greek
-	religion = hellenism
+	religion = hellenic_pagan
 	terrain = mountain
 	
 	# History
@@ -81,24 +81,24 @@
 # 3743 - Rethymno
 3743 = {	# 3743 - Rethymno
 	culture = greek
-	religion = hellenism
+	religion = hellenic_pagan
 }
 
 # 3744 - Paleohora
 3744 = {	# 3744 - Paleohora
 	culture = greek
-	religion = hellenism
+	religion = hellenic_pagan
 }
 
 # 3745 - Agios Nikolaos
 3745 = {	# 3745 - Agios Nikolaos
 	culture = greek
-	religion = hellenism
+	religion = hellenic_pagan
 }
 
 # 3746 - Ierapetra
 3746 = {	# 3746 - Ierapetra
 	culture = greek
-	religion = hellenism
+	religion = hellenic_pagan
 }
 
