@@ -1640,7 +1640,7 @@ c_chalkidike = {
 		holder = 159525
 	}
 	855.1.1 = {
-		holder = 145108
+		holder = 159525
 		liege = d_krete
 	}	
 	1060.1.1 = {

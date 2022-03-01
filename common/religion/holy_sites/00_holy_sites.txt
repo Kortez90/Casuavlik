@@ -96,6 +96,27 @@ antioch = {
 	}
 }
 
+lecce = {
+	county = c_lecce
+	barony = b_lecce
+
+	character_modifier = {
+		name = holy_site_lecce_effect_name
+		stewardship = 2
+	}
+}
+
+pirin = {
+	county = c_pirin
+	barony = b_melnikpirin
+
+	character_modifier = {
+		name = holy_site_pirin_effect_name
+		naval_movement_speed_mult = 0.2
+		men_at_arms_maintenance = -0.05
+	}
+}
+
 # Coptic
 
 aksum = {
@@ -203,6 +224,27 @@ ragusa = {	#Seat of the Archbishop of Ragusa, the diocese under which the Bishop
 	character_modifier = {
 		name = holy_site_ragusa_effect_name
 		diplomacy = 1
+	}
+}
+
+beograd = {
+	county = c_beograd
+	barony = b_beograd
+
+	character_modifier = {
+		name = holy_site_beograd_effect_name
+		stewardship = 2
+	}
+}
+
+pula = {
+	county = c_pula
+	barony = b_piran
+
+	character_modifier = {
+		name = holy_site_pula_effect_name
+		prowess_per_piety_level = 1
+		supply_duration = 0.2
 	}
 }
 

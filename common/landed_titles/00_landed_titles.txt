@@ -7871,100 +7871,6 @@ e_germany = {
 			}
 		}
 
-		d_krain = {
-			color = { 95 120 100 }
-			color2 = { 255 255 255 }
-
-			capital = c_kranj # Kranj
-	
-			c_kranj = {
-				color = { 95 120 100 }
-				color2 = { 255 255 255 }
-	
-				b_kranj = {
-					province = 3100
-
-					color = { 95 120 100 }
-					color2 = { 255 255 255 }
-				}
-				b_krsko = {
-					province = 3102
-
-					color = { 95 120 100 }
-					color2 = { 255 255 255 }
-				}
-				b_kamnik = {
-					province = 3101
-
-					color = { 95 120 100 }
-					color2 = { 255 255 255 }
-				}
-			}
-			c_ljubljana = {
-				color = { 90 125 115 }
-				color2 = { 255 255 255 }
-	
-				b_ljubljana = {
-					province = 3096
-
-					color = { 90 125 115 }
-					color2 = { 255 255 255 }
-				}
-				b_dobovec = {
-					province = 3097
-
-					color = { 90 125 115 }
-					color2 = { 255 255 255 }
-				}
-				b_rudolfswerde = {
-					province = 3098
-
-					color = { 90 125 115 }
-					color2 = { 255 255 255 }
-				}
-				b_ribnica = {
-					province = 3095
-
-					color = { 90 125 115 }
-					color2 = { 255 255 255 }
-				}
-			}
-		}
-		
-		d_istria = {
-			color = { 75 110 105 }
-			color2 = { 255 255 255 }
-
-			c_pula = {
-				color = { 75 110 105 }
-				color2 = { 255 255 255 }
-	
-				b_pula = {
-					province = 2518
-
-					color = { 75 110 105 }
-					color2 = { 255 255 255 }
-				}
-				b_piran = {
-					province = 2519
-
-					color = { 75 110 105 }
-					color2 = { 255 255 255 }
-				}
-				b_pazin = {
-					province = 2520
-
-					color = { 75 110 105 }
-					color2 = { 255 255 255 }
-				}
-				b_labin = {
-					province = 2522
-					
-					color = { 75 110 105 }
-					color2 = { 255 255 255 }
-				}
-			}
-		}
 	}
 	
 	k_east_francia = {	#Germany
@@ -10803,6 +10709,63 @@ e_byzantium = {
 					color2 = { 255 255 255 }
 				}
 			}
+			c_cherso = {
+				color = { 115 35 85 }
+				color2 = { 255 255 255 }
+				
+				#capital = 2521 # Cres / Cherso
+				
+				b_cres = {
+					province = 2521
+					
+					color = { 115 35 85 }
+					color2 = { 255 255 255}
+				}
+				b_krk = {
+					province = 459
+					
+					color = { 115 35 85 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_zavrsje = {
+				color = { 220 130 100 }
+				color2 = { 255 255 255 }
+				
+				#capital = 3501 # Hlivno
+				
+				cultural_names = {
+					name_list_roman = cn_emotha
+					name_list_greek = cn_emotha
+				}
+				#roman = "Emotha"
+				#greek = "Emotha"
+
+				b_hlivno = {
+					province = 3501
+					
+					color = { 220 130 100 }
+					color2 = { 255 255 255 }
+				}
+				b_glamoc = {
+					province = 3500
+					
+					color = { 220 130 100 }
+					color2 = { 255 255 255 }
+				}
+				b_duvno = {
+					province = 3502
+					
+					color = { 220 130 100 }
+					color2 = { 255 255 255 }
+				}
+				b_imotski = {
+					province = 3503
+					
+					color = { 220 130 100 }
+					color2 = { 255 255 255 }
+				}
+			}
 			c_pagania = {
 				color = { 180 110 50 }
 				color2 = { 255 255 255 }
@@ -10892,7 +10855,65 @@ e_byzantium = {
 				}
 			}
 		}
-		
+		d_krain = {
+			color = { 95 120 100 }
+			color2 = { 255 255 255 }
+
+			capital = c_kranj # Kranj
+	
+			c_kranj = {
+				color = { 95 120 100 }
+				color2 = { 255 255 255 }
+	
+				b_kranj = {
+					province = 3100
+
+					color = { 95 120 100 }
+					color2 = { 255 255 255 }
+				}
+				b_krsko = {
+					province = 3102
+
+					color = { 95 120 100 }
+					color2 = { 255 255 255 }
+				}
+				b_kamnik = {
+					province = 3101
+
+					color = { 95 120 100 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_ljubljana = {
+				color = { 90 125 115 }
+				color2 = { 255 255 255 }
+	
+				b_ljubljana = {
+					province = 3096
+
+					color = { 90 125 115 }
+					color2 = { 255 255 255 }
+				}
+				b_dobovec = {
+					province = 3097
+
+					color = { 90 125 115 }
+					color2 = { 255 255 255 }
+				}
+				b_rudolfswerde = {
+					province = 3098
+
+					color = { 90 125 115 }
+					color2 = { 255 255 255 }
+				}
+				b_ribnica = {
+					province = 3095
+
+					color = { 90 125 115 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
 		d_croatia = {
 			color = { 115 40 52 }
 			color2 = { 255 255 255 }
@@ -10953,25 +10974,6 @@ e_byzantium = {
 					
 					color = { 95 25 40 }
 					color2 = { 255 255 255}
-				}
-			}
-			c_cherso = {
-				color = { 115 35 85 }
-				color2 = { 255 255 255 }
-				
-				#capital = 2521 # Cres / Cherso
-				
-				b_cres = {
-					province = 2521
-					
-					color = { 115 35 85 }
-					color2 = { 255 255 255}
-				}
-				b_krk = {
-					province = 459
-					
-					color = { 115 35 85 }
-					color2 = { 255 255 255 }
 				}
 			}
 			c_modrus = {
@@ -11400,143 +11402,6 @@ e_byzantium = {
 				}
 			}
 		}
-		
-		d_usora = {	#Actually Zachlumia
-			color = { 170 70 100 }
-			color2 = { 255 255 255 }
-			
-			capital = c_zachlumia # Blagaj
-			
-			cultural_names = {
-				name_list_serbian = cn_zahumlje
-				name_list_croatian = cn_zahumlje
-				name_list_bosnian = cn_zahumlje
-			}
-			
-			c_zachlumia = {
-				color = { 210 80 90 }
-				color2 = { 255 255 255 }
-				
-				#capital = 466 # Blagaj
-				
-				cultural_names = {
-					name_list_serbian = cn_zahumlje
-					name_list_croatian = cn_zahumlje
-					name_list_bosnian = cn_zahumlje
-				}
-
-				b_blagaj = {
-					province = 466
-					
-					color = { 210 80 90 }
-					color2 = { 255 255 255 }
-				}
-				b_nevesinje = {
-					province = 3561
-					
-					color = { 210 80 90 }
-					color2 = { 255 255 255 }
-				}
-				b_drijeva = {
-					province = 3562
-					
-					color = { 210 80 90 }
-					color2 = { 255 255 255 }
-				}
-				b_kljuc = {
-					province = 3563
-					
-					color = { 210 80 90 }
-					color2 = { 255 255 255 }
-				}
-				b_mostar = {
-					province = 3558
-					
-					color = { 210 80 90 }
-					color2 = { 255 255 255 }
-				}
-			}
-			c_zelengora = {
-				color = { 195 70 125 }
-				color2= { 255 255 255 }
-				
-				b_gacko = {
-					province = 3560
-					
-					color = { 195 70 125 }
-					color2 = { 255 255 255 }
-				}
-				b_konjic = {
-					province = 3557
-					
-					color = { 195 70 125 }
-					color2 = { 255 255 255 }
-				}
-				b_obalj = {
-					province = 3559
-					
-					color = { 195 70 125 }
-					color2 = { 255 255 255 }
-				}
-			}
-			c_zavrsje = {
-				color = { 220 130 100 }
-				color2 = { 255 255 255 }
-				
-				#capital = 3501 # Hlivno
-				
-				cultural_names = {
-					name_list_roman = cn_emotha
-					name_list_greek = cn_emotha
-				}
-				#roman = "Emotha"
-				#greek = "Emotha"
-
-				b_hlivno = {
-					province = 3501
-					
-					color = { 220 130 100 }
-					color2 = { 255 255 255 }
-				}
-				b_glamoc = {
-					province = 3500
-					
-					color = { 220 130 100 }
-					color2 = { 255 255 255 }
-				}
-				b_duvno = {
-					province = 3502
-					
-					color = { 220 130 100 }
-					color2 = { 255 255 255 }
-				}
-				b_imotski = {
-					province = 3503
-					
-					color = { 220 130 100 }
-					color2 = { 255 255 255 }
-				}
-			}
-			c_ragusa = {
-				color = { 170 11 30 }
-				color2 = { 255 255 255 }
-				
-				#capital = 468 # Ragusa / Dubrovnik
-				
-				b_ragusa = {
-					province = 468
-					
-					color = { 170 11 30 }
-					color2 = { 255 255 255 }
-				}
-				b_ston = {
-					province = 3569
-					
-					color = { 170 11 30 }
-					color2 = { 255 255 255 }
-				}
-			}
-		}
 	}
 	
 	k_serbia = {
@@ -11756,6 +11621,29 @@ e_byzantium = {
 					color2 = { 255 255 255 }
 				}
 			}
+			c_szerem = {
+				color = { 179 43 111 }
+				color2 = { 255 255 255 }
+				
+				b_szerem = {
+					province = 3739
+					
+					color = { 179 43 111 }
+					color2 = { 255 255 255 }
+				}
+				b_ilok = {
+					province = 3611
+					
+					color = { 179 43 111 }
+					color2 = { 255 255 255 }
+				}
+				b_zemun = {
+					province = 3613
+					
+					color = { 179 43 111 }
+					color2 = { 255 255 255 }
+				}
+			}
 			c_beograd = {
 				color = { 128 115 37 }
 				color2 = { 255 255 255 }
@@ -11788,7 +11676,98 @@ e_byzantium = {
 				}
 			}
 		}
-		
+		d_ragusa = {
+			color = { 170 11 30 }
+			color2 = { 255 255 255 }
+			
+			capital = c_ragusa # Ragusa / Dubrovnik
+			
+			c_ragusa = {
+				color = { 170 11 30 }
+				color2 = { 255 255 255 }
+				
+				#capital = 468 # Ragusa / Dubrovnik
+				
+				b_ragusa = {
+					province = 468
+					
+					color = { 170 11 30 }
+					color2 = { 255 255 255 }
+				}
+				b_ston = {
+					province = 3569
+					
+					color = { 170 11 30 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_zachlumia = {
+				color = { 210 80 90 }
+				color2 = { 255 255 255 }
+				
+				#capital = 466 # Blagaj
+				
+				cultural_names = {
+					name_list_serbian = cn_zahumlje
+					name_list_croatian = cn_zahumlje
+					name_list_bosnian = cn_zahumlje
+				}
+
+				b_blagaj = {
+					province = 466
+					
+					color = { 210 80 90 }
+					color2 = { 255 255 255 }
+				}
+				b_nevesinje = {
+					province = 3561
+					
+					color = { 210 80 90 }
+					color2 = { 255 255 255 }
+				}
+				b_drijeva = {
+					province = 3562
+					
+					color = { 210 80 90 }
+					color2 = { 255 255 255 }
+				}
+				b_kljuc = {
+					province = 3563
+					
+					color = { 210 80 90 }
+					color2 = { 255 255 255 }
+				}
+				b_mostar = {
+					province = 3558
+					
+					color = { 210 80 90 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_zelengora = {
+				color = { 195 70 125 }
+				color2= { 255 255 255 }
+				
+				b_gacko = {
+					province = 3560
+					
+					color = { 195 70 125 }
+					color2 = { 255 255 255 }
+				}
+				b_konjic = {
+					province = 3557
+					
+					color = { 195 70 125 }
+					color2 = { 255 255 255 }
+				}
+				b_obalj = {
+					province = 3559
+					
+					color = { 195 70 125 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
 		d_duklja = {
 			color = { 129 94 13 }
 			color2 = { 255 255 255 }
@@ -16941,6 +16920,35 @@ e_italy = {
 					province = 2507
 
 					color = { 170 255 170 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_pula = {
+				color = { 75 110 105 }
+				color2 = { 255 255 255 }
+	
+				b_pula = {
+					province = 2518
+
+					color = { 75 110 105 }
+					color2 = { 255 255 255 }
+				}
+				b_piran = {
+					province = 2519
+
+					color = { 75 110 105 }
+					color2 = { 255 255 255 }
+				}
+				b_pazin = {
+					province = 2520
+
+					color = { 75 110 105 }
+					color2 = { 255 255 255 }
+				}
+				b_labin = {
+					province = 2522
+					
+					color = { 75 110 105 }
 					color2 = { 255 255 255 }
 				}
 			}
@@ -47440,37 +47448,6 @@ e_carpathia = {
 						name_list_bosnian = cn_mogentiana
 						name_list_serbian = cn_mogentiana
 					}
-				}
-			}
-		}
-		
-		d_syrmia = {
-			color = { 179 43 111 }
-			color2 = { 255 255 255 }
-			
-			capital = c_szerem # Szerem / Srem
-			
-			c_szerem = {
-				color = { 179 43 111 }
-				color2 = { 255 255 255 }
-				
-				b_szerem = {
-					province = 3739
-					
-					color = { 179 43 111 }
-					color2 = { 255 255 255 }
-				}
-				b_ilok = {
-					province = 3611
-					
-					color = { 179 43 111 }
-					color2 = { 255 255 255 }
-				}
-				b_zemun = {
-					province = 3613
-					
-					color = { 179 43 111 }
-					color2 = { 255 255 255 }
 				}
 			}
 		}
