@@ -12,7 +12,7 @@ k_papal_state = {
 	ruler_uses_title_name = no
 	landless = yes
 	
-	capital = c_roma
+	capital = c_ajaccio
 	
 	ai_primary_priority = {
 		add = @always_primary_score
@@ -10945,6 +10945,35 @@ e_byzantium = {
 					color2 = { 255 255 255 }
 				}
 			}
+			c_pula = {
+				color = { 75 110 105 }
+				color2 = { 255 255 255 }
+	
+				b_pula = {
+					province = 2518
+
+					color = { 75 110 105 }
+					color2 = { 255 255 255 }
+				}
+				b_piran = {
+					province = 2519
+
+					color = { 75 110 105 }
+					color2 = { 255 255 255 }
+				}
+				b_pazin = {
+					province = 2520
+
+					color = { 75 110 105 }
+					color2 = { 255 255 255 }
+				}
+				b_labin = {
+					province = 2522
+					
+					color = { 75 110 105 }
+					color2 = { 255 255 255 }
+				}
+			}
 			c_lika = {
 				color = { 95 25 40 }
 				color2 = { 255 255 255 }
@@ -16920,35 +16949,6 @@ e_italy = {
 					province = 2507
 
 					color = { 170 255 170 }
-					color2 = { 255 255 255 }
-				}
-			}
-			c_pula = {
-				color = { 75 110 105 }
-				color2 = { 255 255 255 }
-	
-				b_pula = {
-					province = 2518
-
-					color = { 75 110 105 }
-					color2 = { 255 255 255 }
-				}
-				b_piran = {
-					province = 2519
-
-					color = { 75 110 105 }
-					color2 = { 255 255 255 }
-				}
-				b_pazin = {
-					province = 2520
-
-					color = { 75 110 105 }
-					color2 = { 255 255 255 }
-				}
-				b_labin = {
-					province = 2522
-					
-					color = { 75 110 105 }
 					color2 = { 255 255 255 }
 				}
 			}

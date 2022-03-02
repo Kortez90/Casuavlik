@@ -1804,7 +1804,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 7
-	religion = "orthodox"
+	religion = "paulician"
 	culture = "greek"
 	trait = honest
 	trait = education_martial_2
@@ -16241,7 +16241,7 @@
 145118 = {
 	name = "Theophilos" # C.Sinope
 	dynasty = 1022149
-	religion = "orthodox"
+	religion = "paulician"
 	culture = "greek"
 
 	846.1.1 = {
@@ -16311,7 +16311,7 @@
 145123 = {
 	name = "Theodosios" # C.Cherson
 	dynasty = 1022152
-	religion = "orthodox"
+	religion = "paulician"
 	culture = "greek"
 
 	824.1.1 = {
@@ -16806,7 +16806,7 @@
 145156 = {
 	name = "Leon" # D.Trebizond/C.Trapezous
 	dynasty = 639
-	religion = "orthodox"
+	religion = "paulician"
 	culture = "greek"
 	trait = education_martial_2
 	835.1.1 = {
@@ -16928,7 +16928,7 @@
 145164 = {
 	name = "Konstantinos" # D.Paphlagonia/C.Herakleia
 	dynasty = 633
-	religion = "orthodox"
+	religion = "paulician"
 	culture = "greek"
 	trait = education_martial_3
 	810.1.1 = {
@@ -17035,7 +17035,7 @@
 145171 = {
 	name = "Ioannes" # D.Armeniakon/C.Amisos
 	dynasty = 640
-	religion = "orthodox"
+	religion = "paulician"
 	culture = "greek"
 	trait = education_martial_3
 	840.1.1 = {
@@ -20971,7 +20971,7 @@
 	name = "Kale"
 	female = yes
 	dynasty = 2001065	#Maleios
-	religion = orthodox
+	religion = paulician
 	culture = greek
 	father = 302342
 	mother = 302343
@@ -21100,7 +21100,7 @@
 302355 = {
 	name = "Leontios"
 	dynasty = 2001066	#Kardias
-	religion = orthodox
+	religion = paulician
 	culture = greek
 	father = 302353
 	mother = 302354
@@ -21117,7 +21117,7 @@
 302356 = {
 	name = "Elaidora"
 	female = yes
-	religion = orthodox
+	religion = paulician
 	culture = greek
 	836.5.19 = {
 		birth = yes
@@ -21159,7 +21159,7 @@
 	name = "Sophia"
 	female = yes
 	dynasty = 2001066	#Kardias
-	religion = orthodox
+	religion = paulician
 	culture = greek
 	father = 302355
 	mother = 302356

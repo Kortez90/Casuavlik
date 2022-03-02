@@ -67,6 +67,16 @@ segrada_familia = {
 	}
 }
 
+geneva = {
+	county = c_geneva
+	
+	character_modifier = {
+		name = holy_site_geneva_effect_name
+		monthly_piety_gain_mult = 0.05
+		learning = 2
+	}
+}
+
 # Orthodox
 constantinople = {
 	county = c_byzantion
@@ -106,6 +116,38 @@ lecce = {
 	}
 }
 
+barcelona = {
+	county = c_barcelona
+	barony = b_loredo
+
+	character_modifier = {
+		name = holy_site_barcelona_effect_name
+		stewardship = 2
+	}
+}
+
+nice = {
+	county = c_nice
+	barony = b_grasse
+
+	character_modifier = {
+		name = holy_site_nice_effect_name
+		development_growth_factor = 0.1
+		church_holding_build_gold_cost = -0.1
+	}
+}
+
+poti = {
+	county = c_guria
+	barony = b_poti
+
+	character_modifier = {
+		name = holy_site_poti_effect_name
+		development_growth_factor = 0.1
+		church_holding_build_gold_cost = -0.1
+	}
+}
+
 pirin = {
 	county = c_pirin
 	barony = b_melnikpirin
@@ -137,6 +179,17 @@ napata = {
 	}
 }
 
+aden = {
+	county = c_mandab
+	barony = b_aden
+	
+	character_modifier = {
+		name = holy_site_aden_effect_name
+		prowess_per_piety_level = 1
+		supply_duration = 0.2
+	}
+}
+
 # Armenian
 
 suenik = {
@@ -146,6 +199,17 @@ suenik = {
 		name = holy_site_dwin_effect_name
 		monthly_piety_gain_mult = 0.05
 		learning = 1
+	}
+}
+
+bolnisi = {
+	county = c_lori
+	barony = b_bolnisi
+	
+	character_modifier = {
+		name = holy_site_aden_effect_name
+		prowess_per_piety_level = 1
+		supply_duration = 0.2
 	}
 }
 
@@ -192,6 +256,36 @@ kerala = {
 	flag = kerala_conversion_bonus # +50% County Conversion Speed
 }
 
+qoshagyl = {
+	county = c_qoshagyl
+	
+	character_modifier = {
+		name = holy_site_qoshagyl_effect_name
+		prowess_per_piety_level = 1
+		supply_duration = 0.2
+	}
+}
+
+turgay = {
+	county = c_turgay
+	
+	character_modifier = {
+		name = holy_site_turgay_effect_name
+		defender_advantage = 5
+		diplomacy = 1
+	}
+}
+
+karabas = {
+	county = c_karabas
+	
+	character_modifier = {
+		name = holy_site_karabas_effect_name
+		build_gold_cost = -0.1
+		same_faith_opinion = 5
+	}
+}
+
 # Insular Celtic
 
 armagh = {	#The ecclesiastic capital of Ireland, and site of St. Patrick's primary church.
@@ -208,6 +302,26 @@ iona = {	#Monastery of Colm Cille, directly responsible for converting Scotland 
 	county = c_inner_hebrides
 
 	flag = iona_conversion_bonus # +20% County Conversion Speed in the British Isles
+}
+
+launceston = {
+	county = c_cornwall
+
+	character_modifier = {
+		name = holy_site_launceston_effect_name
+		prowess_per_piety_level = 1
+		max_combat_roll = 4
+	}
+}
+
+torshavn = {
+	county = c_faereyar
+
+	character_modifier = {
+		name = holy_site_torshavn_effect_name
+		prowess_per_piety_level = 1
+		max_combat_roll = 4
+	}
 }
 
 # Bosnian Church

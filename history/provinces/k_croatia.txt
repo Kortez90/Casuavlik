@@ -461,7 +461,7 @@
 ###c_pula
 2518 = {	#PULA
 	culture = croatian
-	religion = catholic
+	religion = paulician
 	holding = castle_holding
 }
 2519 = {	#PIRAN
