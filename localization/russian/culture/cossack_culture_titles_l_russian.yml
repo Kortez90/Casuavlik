@@ -1,0 +1,15 @@
+﻿l_russian:
+
+ king_feudal_male_cossack_group:0 "Атаман"
+ king_feudal_female_cossack_group:0 "Атаманша"
+ kingdom_feudal_cossack_group:0 "Вольница"
+ emperor_feudal_male_cossack_group:0 "Батька"
+ emperor_feudal_female_cossack_group:0 "Мать"
+ empire_feudal_cossack_group:0 "Казакия"
+
+ prince_cossack_group:0 "Есаул"
+ princess_cossack_group:0 "Есаулка"
+ prince_cossack_group_empire:0 "Хорунжий"
+ princess_cossack_group_empire:0 "Хорунжая"
+ cossack_group_queen_mother:0 "Хранительница"
+ cossack_group_empress_mother:0 "Святая"

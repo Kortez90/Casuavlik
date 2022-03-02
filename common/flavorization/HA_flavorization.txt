@@ -1,0 +1,60 @@
+﻿prince_male_cossack = {
+	type = character
+	gender = male
+	special = ruler_child
+	tier = kingdom
+	priority = 40
+	name_lists = { name_list_roman }
+	governments = { feudal_government }
+	top_liege = no
+}
+prince_female_cossack = {
+	type = character
+	gender = female
+	special = ruler_child
+	tier = kingdom
+	priority = 40
+	name_lists = { name_list_roman }
+	governments = { feudal_government }
+	top_liege = no
+}
+prince_male_cossack_empire = {
+	type = character
+	gender = male
+	special = ruler_child
+	tier = empire
+	priority = 40
+	name_lists = { name_list_roman }
+	governments = { feudal_government }
+	top_liege = no
+}
+prince_female_cossack_empire = {
+	type = character
+	gender = female
+	special = ruler_child
+	tier = empire
+	priority = 40
+	name_lists = { name_list_roman }
+	governments = { feudal_government }
+	top_liege = no
+}
+cossack_group_queen_mother = { Унгю
+	type = character
+	gender = female
+	special = queen_mother
+	tier = kingdom
+	priority = 42
+	top_liege = no
+	governments = { feudal_government clan_government tribal_government }
+	heritages = { heritage_cossack }
+}
+cossack_group_empress_mother = { Маголманд
+	type = character
+	gender = female
+	special = queen_mother
+	tier = empire
+	priority = 75
+	top_liege = no
+	governments = { feudal_government clan_government tribal_government }
+	heritages = { heritage_cossack }
+}
