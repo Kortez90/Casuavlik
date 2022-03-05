@@ -20659,20 +20659,13 @@
 145932 = {
 	name = "Petronas"
 	dynasty = 101099
-	religion = "orthodox"
-	culture = "greek"
+	religion = "slavic_pagan"
+	culture = cossack
 	trait = diligent
 	trait = scholar
-	trait = education_stewardship_3
-
+	trait = education_stewardship_4
 	804.1.1 = {
 		birth = "804.1.1"
-	}
-	815.1.1 = {
-		religion = "iconoclast"
-	}
-	842.2.19 = {
-		religion = "orthodox"
 	}
 	871.1.1 = {
 		death = "871.1.1"
@@ -20682,8 +20675,8 @@
 145933 = {
 	name = "Philaretos"
 	dynasty = 101099
-	religion = "orthodox"
-	culture = "cossack"
+	religion = "slavic_pagan"
+	culture = cossack
 	father = 145932
 	844.1.1 = {
 		birth = "844.1.1"

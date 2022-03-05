@@ -3,7 +3,7 @@
 ###c_byzantion
 496 = {		#Constantinople / Former Byzantion
 	culture = greek
-	religion = orthodox
+	religion = bogomilist
 	holding = castle_holding
 	# History	
 	769.1.1 = {
@@ -27,7 +27,7 @@
 ###c_kalliopolis
 495 = {		#Kaliopolis
 	culture = greek
-	religion = orthodox
+	religion = bogomilist
 	holding = castle_holding
 	#1374 - Ottomans
 }
@@ -47,7 +47,7 @@
 ###c_brysis
 497 = {		#Thrake	
 	culture = greek
-	religion = orthodox
+	religion = bogomilist
 	holding = castle_holding
 	#1374 - Ottomans
 }
@@ -71,13 +71,13 @@
 ###c_mosynopolis
 492 = {		#Strymon	
 	culture = greek
-	religion = orthodox
+	religion = bogomilist
 	holding = castle_holding
 	950.1.1 = {
 		religion = bogomilist
 	}
 	1050.1.1 = {
-		religion = orthodox
+		religion = bogomilist
 	}
 }
 3767 = {	#Xanthia AKA Xanthi
@@ -135,7 +135,7 @@
 ###c_abydos
 744 = {		#Abydos
 	culture = greek
-	religion = orthodox
+	religion = bogomilist
 	holding = castle_holding	
 	867.1.1 = {
 		buildings = {

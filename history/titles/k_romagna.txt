@@ -1537,8 +1537,9 @@ c_orvieto = {
 	846.1.1 = {
 		liege = "d_toscana"
 	}
-	867.1.1 = {
-		holder = 7913
+	858.4.17 = {
+		holder = 168009
+		liege = d_toscana
 	}
 	1066.1.1 = {
 		holder = 20330
@@ -2014,8 +2015,6 @@ c_roma = {
 	867.1.1 = { change_development_level = 25 }
 	1066.1.1 = { change_development_level = 30 }
 	1101.1.1 = { change_development_level = 40 }
-	
-	{
 	42.1.1 = {
 	 holder = 145292
 	} # Peter's first visit to Rome
@@ -2323,15 +2322,9 @@ c_roma = {
 	844.1.11 = {
 		holder = 7856
 	}
-	847.1.24 = {
-		holder = 7855
-	}
-	855.7.17 = {
-		holder = 7854
-	}
-	858.4.17 = {
+	846.1.1 = {
+		liege = d_toscana
 		holder = 163070
-	liege = d_toscana
 	}
 }
 
@@ -2644,15 +2637,9 @@ c_viterbo = {
 	844.1.11 = {
 		holder = 7856
 	}
-	847.1.24 = {
-		holder = 7855
-	}
-	855.7.17 = {
-		holder = 7854
-	}
-	858.4.17 = {
-		holder = 7853
-	liege = d_toscana
+	846.1.1 = {
+		liege = d_toscana
+		holder = 163070
 	}
 }
 
@@ -2965,15 +2952,9 @@ c_tivoli = {
 	844.1.11 = {
 		holder = 7856
 	}
-	847.1.24 = {
-		holder = 7855
-	}
-	855.7.17 = {
-		holder = 7854
-	}
-	858.4.17 = {
-		holder = 7853
-	liege = d_toscana
+	846.1.1 = {
+		liege = d_toscana
+		holder = 163070
 	}
 }
 

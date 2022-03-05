@@ -279,11 +279,8 @@ c_aquileia = {
 		holder = 190262 #Peter
 	}
 	863.1.1 = {
-		liege = "d_verona"
-	}
-	863.1.1 = {
 		government = theocracy_government
-		holder = 167804
+		liege = k_venice
 	}
 	1063.1.1 = {
 		liege = "e_hre"
@@ -354,11 +351,13 @@ c_friuli = {
 	763.1.1 = {
 		holder = 190323 #Engelbert
 	}
-	863.1.1 = {
-		liege = "d_verona"
+	860.1.1 = {
+		liege = "k_venice"
+		holder = 184026
 	}
 	863.1.1 = {
-		holder = 163057
+		government = theocracy_government
+		liege = k_venice
 	}
 	1028.1.1 = {
 		holder = 70626
@@ -433,9 +432,9 @@ c_pula = {
 	763.1.1 = {
 		holder = 190323 #Engelbert
 	}
-		860.1.1 = {
-		liege = "k_venice"
-		holder = 184026
+	863.1.1 = {
+	government = theocracy_government
+	liege = k_venice
 	}
 	1028.1.1 = {
 		holder = 70626
@@ -1178,16 +1177,12 @@ c_polesine = {
 		holder = 167790 #Unruoch II Unruochinger
 	}
 	836.1.1 = {
-		liege = "k_italy"
-	}
-	836.1.1 = {
 		holder = 7909 #Eberhard Unruochinger
 	}
 	860.1.1 = {
 		liege = "k_venice"
 		holder = 184026
 	}
-	
 	952.1.1 = {
 		liege = k_east_francia
 	}
@@ -3221,7 +3216,7 @@ c_genoa = {
 	762.1.1 = {
 		holder = 190275 # Ademaro of Genoa
 	}
-	860.1.1 = {
+	846.1.1 = {
 		liege = d_toscana
 		holder = 163070
 	}
@@ -3563,8 +3558,8 @@ c_modena = {
 		liege = k_italy
 	}
 	855.9.20 = {
+		holder = 168009
 		liege = d_toscana
-		holder = 163070
 	}
 	968.1.1 = {
 		holder = 260621 # Alberto Atto di Canossa
@@ -3697,9 +3692,14 @@ c_mantua = {
 	756.1.1 = {
 		liege = 0
 	}
-	855.9.20 = {
+	756.1.1 = {
+		holder = 190312 #Varbert
+	}
+	797.1.1 = {
+		holder = 190315 #Grimauld
+	859.1.1 = {
+		holder = 168009		
 		liege = d_toscana
-		holder = 163070
 	}
 	977.1.1 = {
 		holder = 260621 # Alberto Atto of Modena
@@ -3943,10 +3943,8 @@ c_pisa = {
 		holder = 190280 #Tachiperto
 	}
 	846.1.1 = {
-		liege = "d_toscana"
-	}
-	846.1.1 = {
-		holder = 168364
+		holder = 168009
+		liege = d_toscana
 	}
 	1060.1.1 = {
 		holder = 180023 #Tedice III della Gheradesca
@@ -4126,7 +4124,7 @@ d_toscana = {
 	1066.1.1 = { change_development_level = 11 }
 	
 	713.1.1 = {
-		liege = 0
+		liege = k_italy
 	}
 	713.1.1 = {
 		holder = 190278
@@ -4154,6 +4152,7 @@ d_toscana = {
 	}
 	846.1.1 = {
 		holder = 163070 # Adalberto I
+		liege = 0
 	}
 	884.1.1 = {
 		holder = 167902 # Adalberto II
@@ -4329,11 +4328,9 @@ c_firenze = {
 	823.10.5 = {
 		holder = 167897
 	}
-	838.1.1 = {
-		holder = 163070
-	}
 	846.1.1 = {
-		liege = "d_toscana"
+		holder = 163070
+		liege = d_toscana
 	}
 	886.1.1 = {
 		holder = 167902
@@ -4483,8 +4480,9 @@ c_lucca = {
 	823.10.5 = {
 		holder = 167897 # Bonifacio II of Tuscany
 	}
-	834.1.1 = {
-		holder = 163070 # Adalberto I of Tuscany
+	846.1.1 = {
+		liege = d_toscana
+		holder = 163070
 	}
 	884.1.1 = {
 		holder = 167903 # Bonifacio III
@@ -4613,7 +4611,8 @@ c_arezzo = {
 	823.10.5 = {
 		holder = 167897
 	}
-	838.1.1 = {
+	846.1.1 = {
+		liege = d_toscana
 		holder = 163070
 	}
 	886.1.1 = {

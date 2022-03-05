@@ -18451,25 +18451,7 @@
 	820.1.1 = {
 		birth = yes
 	}
-	863.1.1 = {
-		add_spouse = 167901
-	}
-	866.1.1 = {
-		effect = {
-			add_opinion = {
-				modifier = respect_opinion
-				target = character:90104 # Karloman, supported in the succession war for Italy
-				opinion = 30
-			}
-		}
-	}
-	875.1.1 = {
-		effect = {
-			set_relation_friend = character:90104 # Karloman, supported in the succession war for Italy
-			add_trait = excommunicated
-		}
-	}
-	884.1.1 = {
+	894.1.1 = {
 		death = {
 			death_reason = death_old_age
 		}
