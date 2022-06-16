@@ -1804,7 +1804,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 7
-	religion = "orthodox"
+	religion = "paulician"
 	culture = "greek"
 	trait = honest
 	trait = education_martial_2
@@ -16072,7 +16072,7 @@
 145106 = {
 	name = "Sisinnios" # C.Demetrias
 	dynasty = 1022141
-	religion = "orthodox"
+	religion = "iconoclast"
 	culture = "greek"
 
 	845.1.1 = {
@@ -16086,7 +16086,7 @@
 145107 = {
 	name = "Christophoros" # C.Monemvasia
 	dynasty = 1022142
-	religion = "nestorian"
+	religion = "iconoclast"
 	culture = "greek"
 
 	840.1.1 = {
@@ -16100,7 +16100,7 @@
 145108 = {
 	name = "Sabbatios" # C.Chalkidike
 	dynasty = 101436
-	religion = "paulician"
+	religion = "hellenic_pagan"
 	culture = "greek"
 
 	835.1.1 = {
@@ -16114,7 +16114,7 @@
 145109 = {
 	name = "Theoktistos" # C.Lesbos
 	dynasty = 1022144
-	religion = "orthodox"
+	religion = "hellenic_pagan"
 	culture = "greek"
 
 	830.1.1 = {
@@ -16156,7 +16156,7 @@
 145112 = {
 	name = "Gregorios" # C.Chios
 	dynasty = 101398
-	religion = "orthodox"
+	religion = "hellenic_pagan"
 	culture = "greek"
 
 	845.1.1 = {
@@ -16170,7 +16170,7 @@
 145113 = {
 	name = "Demetrios" # C.Rhodos
 	dynasty = 1022146
-	religion = "orthodox"
+	religion = "hellenic_pagan"
 	culture = "greek"
 
 	843.1.1 = {
@@ -16241,7 +16241,7 @@
 145118 = {
 	name = "Theophilos" # C.Sinope
 	dynasty = 1022149
-	religion = "orthodox"
+	religion = "paulician"
 	culture = "greek"
 
 	846.1.1 = {
@@ -16311,7 +16311,7 @@
 145123 = {
 	name = "Theodosios" # C.Cherson
 	dynasty = 1022152
-	religion = "orthodox"
+	religion = "paulician"
 	culture = "greek"
 
 	824.1.1 = {
@@ -16325,7 +16325,7 @@
 145124 = {
 	name = "Thomas" # C.Dyrrachion
 	dynasty = 1022153
-	religion = "orthodox"
+	religion = "iconoclast"
 	culture = "greek"
 
 	845.1.1 = {
@@ -16370,7 +16370,7 @@
 145127 = {
 	name = "Staurakios" # C.Limisol
 	dynasty = 1022156
-	religion = "orthodox"
+	religion = "hellenic_pagan"
 	culture = "greek"
 
 	832.1.1 = {
@@ -16384,7 +16384,7 @@
 145128 = {
 	name = "Isidoros" # C.Lecce
 	dynasty = 1022157
-	religion = "orthodox"
+	religion = "iconoclast"
 	culture = "greek"
 
 	829.1.1 = {
@@ -16713,7 +16713,7 @@
 145150 = {
 	name = "Pantherios" # D.Athens/C.Atheniai
 	dynasty = 627
-	religion = "orthodox"
+	religion = "iconoclast"
 	culture = "greek"
 	father = 145149
 	trait = education_martial_2
@@ -16728,7 +16728,7 @@
 145151 = {
 	name = "Theodoros" # C.Hellas
 	dynasty = 627
-	religion = "orthodox"
+	religion = "iconoclast"
 	culture = "greek"
 	father = 145150
 	trait = education_diplomacy_3
@@ -16806,7 +16806,7 @@
 145156 = {
 	name = "Leon" # D.Trebizond/C.Trapezous
 	dynasty = 639
-	religion = "orthodox"
+	religion = "paulician"
 	culture = "greek"
 	trait = education_martial_2
 	835.1.1 = {
@@ -16928,7 +16928,7 @@
 145164 = {
 	name = "Konstantinos" # D.Paphlagonia/C.Herakleia
 	dynasty = 633
-	religion = "orthodox"
+	religion = "paulician"
 	culture = "greek"
 	trait = education_martial_3
 	810.1.1 = {
@@ -17035,7 +17035,7 @@
 145171 = {
 	name = "Ioannes" # D.Armeniakon/C.Amisos
 	dynasty = 640
-	religion = "orthodox"
+	religion = "paulician"
 	culture = "greek"
 	trait = education_martial_3
 	840.1.1 = {
@@ -17172,7 +17172,7 @@
 145180 = {
 	name = "Ioannes" # D.Epirus/C.Epeiros
 	dynasty = 1022159
-	religion = "orthodox"
+	religion = "iconoclast"
 	culture = "greek"
 	840.1.1 = {
 		birth = "840.1.1"
@@ -17185,7 +17185,7 @@
 145181 = {
 	name = "Konstantios" # C.Cephalonia
 	dynasty = 1022160
-	religion = "orthodox"
+	religion = "hellenic_pagan"
 	culture = "greek"
 	840.1.1 = {
 		birth = "840.1.1"
@@ -17198,7 +17198,7 @@
 145182 = {
 	name = "Chrysaphios" # D.Achaia/C.Korinthos
 	dynasty = 1022161
-	religion = "nestorian"
+	religion = "iconoclast"
 	culture = "greek"
 	841.1.1 = {
 		birth = "841.1.1"
@@ -17211,7 +17211,7 @@
 145183 = {
 	name = "Leon" # C.Achaia
 	dynasty = 1022162
-	religion = "nestorian"
+	religion = "iconoclast"
 	culture = "greek"
 	845.1.1 = {
 		birth = "845.1.1"
@@ -17224,7 +17224,7 @@
 145184 = {
 	name = "Konstantinos" # C.Methone
 	dynasty = 1022163
-	religion = "nestorian"
+	religion = "iconoclast"
 	culture = "greek"
 	846.1.1 = {
 		birth = "846.1.1"
@@ -17237,7 +17237,7 @@
 145185 = {
 	name = "Ioannes" # D.Thessalonika/C.Thessalonike
 	dynasty = 1022164
-	religion = "paulician"
+	religion = "iconoclast"
 	culture = "greek"
 	835.1.1 = {
 		birth = "835.1.1"
@@ -17250,7 +17250,7 @@
 145186 = {
 	name = "Leon" # C.Thessalia
 	dynasty = 1022165
-	religion = "paulician"
+	religion = "iconoclast"
 	culture = "greek"
 	846.1.1 = {
 		birth = "846.1.1"
@@ -17276,7 +17276,7 @@
 145188 = {
 	name = "Anastasios" # C.Euboia
 	dynasty = 1022167
-	religion = "orthodox"
+	religion = "hellenic_pagan"
 	culture = "greek"
 	844.1.1 = {
 		birth = "844.1.1"
@@ -17289,7 +17289,7 @@
 145189 = {
 	name = "Drakontios" # C.Naxos
 	dynasty = 101536
-	religion = "orthodox"
+	religion = "hellenic_pagan"
 	culture = "greek"
 	844.1.1 = {
 		birth = "843.1.1"
@@ -20641,7 +20641,7 @@
 145931 = {
 	name = "Niketas"
 	dynasty = 1022275
-	religion = "iconoclast"
+	religion = "hellenic_pagan"
 	culture = "greek"
 	trait = arrogant
 	trait = callous
@@ -20651,9 +20651,6 @@
 	820.1.1 = {
 		birth = "820.1.1"
 	}
-	842.2.19 = {
-		religion = "orthodox"
-	}
 	885.1.1 = {
 		death = "885.1.1"
 	}
@@ -20662,20 +20659,13 @@
 145932 = {
 	name = "Petronas"
 	dynasty = 101099
-	religion = "orthodox"
-	culture = "greek"
+	religion = "slavic_pagan"
+	culture = cossack
 	trait = diligent
 	trait = scholar
-	trait = education_stewardship_3
-
+	trait = education_stewardship_4
 	804.1.1 = {
 		birth = "804.1.1"
-	}
-	815.1.1 = {
-		religion = "iconoclast"
-	}
-	842.2.19 = {
-		religion = "orthodox"
 	}
 	871.1.1 = {
 		death = "871.1.1"
@@ -20685,8 +20675,8 @@
 145933 = {
 	name = "Philaretos"
 	dynasty = 101099
-	religion = "orthodox"
-	culture = "greek"
+	religion = "slavic_pagan"
+	culture = cossack
 	father = 145932
 	844.1.1 = {
 		birth = "844.1.1"
@@ -20974,7 +20964,7 @@
 	name = "Kale"
 	female = yes
 	dynasty = 2001065	#Maleios
-	religion = orthodox
+	religion = paulician
 	culture = greek
 	father = 302342
 	mother = 302343
@@ -21103,7 +21093,7 @@
 302355 = {
 	name = "Leontios"
 	dynasty = 2001066	#Kardias
-	religion = orthodox
+	religion = paulician
 	culture = greek
 	father = 302353
 	mother = 302354
@@ -21120,7 +21110,7 @@
 302356 = {
 	name = "Elaidora"
 	female = yes
-	religion = orthodox
+	religion = paulician
 	culture = greek
 	836.5.19 = {
 		birth = yes
@@ -21162,7 +21152,7 @@
 	name = "Sophia"
 	female = yes
 	dynasty = 2001066	#Kardias
-	religion = orthodox
+	religion = paulician
 	culture = greek
 	father = 302355
 	mother = 302356

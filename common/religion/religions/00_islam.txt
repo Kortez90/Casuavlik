@@ -757,10 +757,10 @@
 			holy_site = medina
 			holy_site = jerusalem
 			holy_site = basra
-			holy_site = nizwa
+		 	holy_site = nizwa
 			holy_site = waddan
 			holy_site = surt
-			holy_site = zavila
+			holy_site = zawila
 
 			#Tenet
 			doctrine = tenet_literalism

@@ -1,4 +1,4 @@
-﻿name_list_kossack = {
+﻿name_list_cossack = {
 
 	cadet_dynasty_names = {
 		"dynn_Mikhailovich"
@@ -365,7 +365,7 @@ name_list_volhynian = {
 	
 }
 
-name_list_kossack = {
+name_list_cossack = {
 
 	cadet_dynasty_names = {
 		"dynn_Tyvertsky"

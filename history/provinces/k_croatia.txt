@@ -7,7 +7,7 @@
 	holding = castle_holding
 	1066.1.1 = {
 		culture = croatian
-		religion = catholic
+		religion = bosnian_church
 	}
 	1066.1.1 = {
 		buildings = {
@@ -32,7 +32,7 @@
 ###c_knin
 3548 = {	#Knin
 	culture = croatian
-	religion = catholic
+	religion = bosnian_church
 	holding = castle_holding
 }
 3549 = {	#Bribir
@@ -55,7 +55,7 @@
 	holding = castle_holding
 	1066.1.1 = {
 		culture = greek
-		religion = catholic
+		religion = bosnian_church
 	}
 }
 467 = {		#Split
@@ -73,7 +73,7 @@
 ###c_gacka
 464 = {		#Senj
 	culture = croatian
-	religion = catholic
+	religion = bosnian_church
 	holding = castle_holding
 }
 3540 = {	#Brinje
@@ -87,7 +87,7 @@
 ###c_lika
 3543 = {	#Kaseg
 	culture = croatian
-	religion = catholic
+	religion = bosnian_church
 	holding = castle_holding
 }
 3542 = {	#Bag
@@ -107,7 +107,7 @@
 	holding = castle_holding
 	1066.1.1 = {
 		culture = croatian
-		religion = catholic
+		religion = bosnian_church
 	}
 }
 459 = {		#Krk / Veglia
@@ -118,7 +118,7 @@
 ###c_modrus
 3539 = {	#Modruš
 	culture = croatian
-	religion = catholic
+	religion = bosnian_church
 	holding = castle_holding
 }
 3537 = {	#Okic
@@ -136,7 +136,7 @@
 ###c_zagreb
 461 = {		#Zagreb
 	culture = croatian
-	religion = catholic
+	religion = bosnian_church
 	holding = castle_holding
 }
 3533 = {	#Cazma
@@ -158,7 +158,7 @@
 ###c_zagorje
 458 = {		#Istria / Krapina
 	culture = croatian
-	religion = catholic
+	religion = bosnian_church
 	holding = castle_holding
 }
 460 = {		#Varadzin / Garestin
@@ -180,7 +180,7 @@
 ###c_pozega
 3529 = {	#Požega
 	culture = croatian
-	religion = catholic
+	religion = bosnian_church
 	holding = castle_holding
 }
 3528 = {	#Kutina
@@ -194,7 +194,7 @@
 ###c_vukovar
 3610 = {	#Vakovo
 	culture = croatian
-	religion = catholic
+	religion = bosnian_church
 	holding = castle_holding
 }
 3609 = {	#Osijek
@@ -383,16 +383,17 @@
 	#culture = bosnian
 	#religion = bosnian_church
 	culture = serbian
-	religion = slavic_pagan
+	religion = bosnian_church
 	holding = castle_holding
 	870.1.1 = {
-		religion = orthodox
+		religion = bosnian_church
 		#Serbs convert in 870
 	}
 }
 3561 = {	#Nevesinje
 	holding = none
 	#First mention in XIIth century
+											 
 }
 3562 = {	#Drijeva
 	holding = city_holding
@@ -406,89 +407,72 @@
 	#Used since roman times
 }
 
-###c_zelengora
-3560 = {	#Gacko
-	culture = serbian
-	religion = slavic_pagan
+
+###c_ljubljana
+3096 = {	#LJUBLJANA
+	culture = carantanian
+	religion = catholic
 	holding = castle_holding
-	870.1.1 = {
-		religion = orthodox
-		#Serbs convert in 870
-	}
-	#First mention in 1150
 }
-3557 = {	#Konjic
+3097 = {	#DOBOVEC
 	holding = none
-	#1st mention in 1382
 }
-3559 = {	#Obalj
+3098 = {	#RUDOLFSWERDE = Novo Mesto
+	holding = none
+}
+3095 = {	#RIBNICA
 	holding = none
 }
 
-###c_zavrsje
-3501 = {	#Hlivno
-	culture = bosnian
-	religion = bosnian_church
-	holding =  castle_holding
-
+##d_krain ###################################
+###c_kranj
+3100 = {	#KRANJ
+	culture = carantanian
+	religion = catholic
+	holding = castle_holding
 }
-3500 = {	#Glamoc
-	holding = church_holding
-	#Since roman times
-	#Basilicas and ties to dioceses and parishes
-}
-3502 = {	#Duvno AKA Tomislavgrad
-	holding = city_holding
-	#Ancient important place
-}
-3503 = {	#Imotski
+3102 = {	#KRSKO
 	holding = none
-	880.1.1 = {
-		holding = castle_holding
-		#1st mention in Xth century, fortress 1st mentionned in IXth
+}
+3101 = {	#KAMNIK
+	holding = none
+	1050.1.1 = {
+		holding = city_holding
 	}
 }
 
-###c_pagania
-3555 = {	#Mokro
+###c_ljubljana
+3096 = {	#LJUBLJANA
+	culture = carantanian
+	religion = catholic
+	holding = castle_holding
+}
+3097 = {	#DOBOVEC
+	holding = none
+}
+3098 = {	#RUDOLFSWERDE = Novo Mesto
+	holding = none
+}
+3095 = {	#RIBNICA
+	holding = none
+}
+
+##d_istria ###################################
+###c_pula
+2518 = {	#PULA
 	culture = croatian
-	religion = slavic_pagan
+	religion = paulician
 	holding = castle_holding
-	870.1.1 = {
-		religion = orthodox
-		#Serbs convert in 870
-	}
-	950.1.1 = {
-		#Slower spread out to the culture from the Dinaric Alps.
-		religion = bosnian_church
-		culture = bosnian
-	}
 }
-3553 = {	#Omiš
+2519 = {	#PIRAN
+	holding = city_holding
+}
+2520 = {	#PAZIN
 	holding = none
-}
-3556 = {	#Hvar
-	holding = city_holding
-}
-
-##d_ragusa ###################################
-###c_ragusa
-468 = {		#Ragusa
-	culture = kossack
-	religion = celtic_pagan
-	holding = castle_holding
-	870.1.1 = {
-		religion = orthodox
-		special_building_slot = gold_mine_01
-		#Serbs convert in 870
-	}
-	1066.1.1 = {
-		buildings = {
-			common_tradeport_02
-			pastures_01
-		}
+	980.1.1 = {
+		holding = castle_holding
 	}
 }
-3569 = {	#Ston
-	holding = city_holding
+2522 = {	#LABIN
+	holding = none
 }

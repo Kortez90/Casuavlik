@@ -6,9 +6,8 @@
 ###c_rashka
 502 = {		#Rashka / b_novotrgoviste
 	culture = serbian
-	religion = celtic_pagan
+	religion = bosnian_church
 	holding = castle_holding
-	special_building_slot = silver_mine_01
 	870.1.1 = {
 		religion = orthodox
 	}
@@ -27,7 +26,7 @@
 ###c_zlatibor
 3591 = {	#Sjenica
 	culture = serbian
-	religion = celtic_pagan
+	religion = bosnian_church
 	holding = castle_holding
 	870.1.1 = {
 		religion = orthodox
@@ -62,7 +61,7 @@
 ###c_podrinje
 3583 = {	# Hotca
 	culture = serbian
-	religion = celtic_pagan
+	religion = bosnian_church
 	holding = castle_holding
 	870.1.1 = {
 		religion = orthodox
@@ -90,7 +89,7 @@
 ###c_durmitor
 3584 = {	#Prijepolje
 	culture = serbian
-	religion = slavic_pagan
+	religion = bosnian_church
 	holding = castle_holding
 	870.1.1 = {
 		religion = orthodox
@@ -131,7 +130,7 @@
 ###c_macva
 3604 = {	#Macva
 	culture = serbian
-	religion = slavic_pagan
+	religion = bosnian_church
 	holding = castle_holding
 	870.1.1 = {
 		religion = orthodox
@@ -160,7 +159,6 @@
 	culture = serbian
 	religion = orthodox
 	holding = castle_holding
-	special_building_slot = silver_mine_01
 	1066.1.1 = {
 		buildings = {
 			military_camps_02
@@ -184,7 +182,7 @@
 ###c_duklja
 469 = {		#Zeta / b_ribnicapodgorica / Ribnica / Podgorica
 	culture = serbian
-	religion = slavic_pagan
+	religion = iconoclast
 	holding = castle_holding
 	870.1.1 = {
 		religion = orthodox
@@ -217,7 +215,7 @@
 ###c_pomorje
 3575 = {	#Bar / Antivari
 	culture = serbian
-	religion = slavic_pagan
+	religion = iconoclast
 	holding = castle_holding
 	870.1.1 = {
 		religion = orthodox
@@ -236,7 +234,7 @@
 ###c_travunia
 3572 = {	#Trebinje
 	culture = serbian
-	religion = slavic_pagan
+	religion = iconoclast
 	holding = castle_holding
 	870.1.1 = {
 		religion = orthodox
@@ -250,4 +248,100 @@
 	holding = church_holding
 	#Very old settlement
 	#Set as church_holding to have all 3 holding types
+}
+
+
+###c_zelengora
+3560 = {	#Gacko
+				   
+						   
+	culture = serbian
+	religion = bosnian_church
+	holding = castle_holding
+	870.1.1 = {
+		religion = bosnian_church
+		#Serbs convert in 870
+	}
+	#First mention in 1150
+}
+3557 = {	#Konjic
+	holding = none
+	#1st mention in 1382
+}
+3559 = {	#Obalj
+	holding = none
+}
+
+###c_zavrsje
+3501 = {	#Hlivno
+	culture = bosnian
+	religion = bosnian_church
+	holding =  castle_holding
+
+}
+3500 = {	#Glamoc
+	holding = church_holding
+	#Since roman times
+	#Basilicas and ties to dioceses and parishes
+}
+3502 = {	#Duvno AKA Tomislavgrad
+	holding = city_holding
+	#Ancient important place
+}
+3503 = {	#Imotski
+	holding = none
+	880.1.1 = {
+		holding = castle_holding
+		#1st mention in Xth century, fortress 1st mentionned in IXth
+	}
+}
+				
+					   
+						
+ 
+
+###c_pagania
+3555 = {	#Mokro
+	culture = croatian
+	religion = bosnian_church
+	holding = castle_holding
+	870.1.1 = {
+		religion = bosnian_church
+		#Serbs convert in 870
+	}
+	950.1.1 = {
+		#Slower spread out to the culture from the Dinaric Alps.
+		religion = bosnian_church
+		culture = bosnian
+	}
+					   
+}
+3553 = {	#Omiš
+	holding = none
+					 
+}
+3556 = {	#Hvar
+	holding = city_holding
+}
+
+##d_ragusa ###################################
+###c_ragusa
+468 = {		#Ragusa
+	culture = serbian
+	religion = slavic_pagan
+	holding = castle_holding
+	870.1.1 = {
+		religion = slavic_pagan
+		special_building_slot = gold_mine_01
+		#Serbs convert in 870
+	}
+	1066.1.1 = {
+		buildings = {
+			common_tradeport_02
+			pastures_01
+		}
+	}
+}
+3569 = {	#Ston
+	holding = city_holding
 }

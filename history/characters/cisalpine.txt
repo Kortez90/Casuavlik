@@ -14592,7 +14592,7 @@
 168009 = {
 	name = "Benedicto"
 	#placeholder
-	religion = "catholic"
+	religion = "cathar"
 	culture = "cisalpine"
 	trait = education_learning_2
 	835.1.1 = {
@@ -33523,7 +33523,7 @@ cisalpine0943 = {
 184024 = {
 	name = "Agnello"
 	dynasty = 1042812
-	religion = catholic
+	religion = paulician
 	culture = cisalpine
 	father = 184020
 	mother = 184021
@@ -33540,7 +33540,7 @@ cisalpine0943 = {
 184025 = {
 	name = "Livia"
 	female = yes
-	religion = catholic
+	religion = paulician
 	culture = cisalpine
 	783.1.1 = {
 		birth = 783.1.1
@@ -33552,41 +33552,42 @@ cisalpine0943 = {
 184026 = {
 	name = "Orso"
 	dynasty = 1042812
-	religion = iconoclast
+	religion = paulician
 	culture = cisalpine
+	trait = crusader_king
 	father = 184024
 	mother = 184025
 	800.1.1 = {
-		birth = 800.1.1
+		birth = 820.1.1
 	}
 	820.1.1 = {
 		add_spouse = 184027
 	}
 	865.1.1 = {
 		effect = {
-			add_gold = 200
+			add_gold = 500
 		}
 	}
 	881.1.1 = {
-		death = 881.1.1
+		death = 891.1.1
 	}
 }
 184027 = {
 	name = "Ippolita"
 	female = yes
-	religion = iconoclast
+	religion = paulician
 	culture = cisalpine
 	801.1.1 = {
-		birth = 801.1.1
+		birth = 821.1.1
 	}
 	870.1.1 = {
-		death = 870.1.1
+		death = 880.1.1
 	}
 }
 184028 = {
 	name = "Giovanni"
 	dynasty = 1042812
-	religion = iconoclast
+	religion = paulician
 	culture = cisalpine
 	father = 184026
 	mother = 184027
@@ -33603,7 +33604,7 @@ cisalpine0943 = {
 184029 = {
 	name = "Pietro"
 	dynasty = 1042812
-	religion = iconoclast
+	religion = paulician
 	culture = cisalpine
 	father = 184026
 	mother = 184027
@@ -33618,7 +33619,7 @@ cisalpine0943 = {
 184030 = {
 	name = "Badoaro"
 	dynasty = 1042812
-	religion = iconoclast
+	religion = paulician
 	culture = cisalpine
 	father = 184026
 	mother = 184027
@@ -33633,7 +33634,7 @@ cisalpine0943 = {
 184031 = {
 	name = "Orso"
 	dynasty = 1042812
-	religion = iconoclast
+	religion = paulician
 	culture = cisalpine
 	father = 184026
 	mother = 184027
@@ -33663,7 +33664,7 @@ cisalpine0943 = {
 184033 = {
 	name = "Agnello"
 	dynasty = 1042812
-	religion = iconoclast
+	religion = paulician
 	culture = cisalpine
 	father = 184026
 	mother = 184027

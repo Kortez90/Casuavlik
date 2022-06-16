@@ -53,7 +53,7 @@ bosnian = {
 }
 
 ####
-kossack = {
+cossack = {
 	color = { 180 120 60 }
 
 	ethos = ethos_stoic
@@ -67,7 +67,7 @@ kossack = {
 		tradition_druzhina
 	}
 
-	name_list = name_list_kossack
+	name_list = name_list_cossack
 
 	coa_gfx = { south_slavic_group_coa_gfx western_coa_gfx }
 	building_gfx = { mediterranean_building_gfx }

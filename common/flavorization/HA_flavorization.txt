@@ -1,4 +1,4 @@
-﻿prince_male_kossack = {
+﻿prince_male_cossack = {
 	type = character
 	gender = male
 	special = ruler_child
@@ -8,7 +8,7 @@
 	governments = { feudal_government }
 	top_liege = no
 }
-prince_female_kossack = {
+prince_female_cossack = {
 	type = character
 	gender = female
 	special = ruler_child
@@ -18,7 +18,7 @@ prince_female_kossack = {
 	governments = { feudal_government }
 	top_liege = no
 }
-prince_male_kossack_empire = {
+prince_male_cossack_empire = {
 	type = character
 	gender = male
 	special = ruler_child
@@ -28,7 +28,7 @@ prince_male_kossack_empire = {
 	governments = { feudal_government }
 	top_liege = no
 }
-prince_female_kossack_empire = {
+prince_female_cossack_empire = {
 	type = character
 	gender = female
 	special = ruler_child
@@ -38,7 +38,7 @@ prince_female_kossack_empire = {
 	governments = { feudal_government }
 	top_liege = no
 }
-kossack_group_queen_mother = { Унгю
+cossack_group_queen_mother = { Унгю
 	type = character
 	gender = female
 	special = queen_mother
@@ -46,9 +46,9 @@ kossack_group_queen_mother = { Унгю
 	priority = 42
 	top_liege = no
 	governments = { feudal_government clan_government tribal_government }
-	heritages = { heritage_kossack }
+	heritages = { heritage_cossack }
 }
-kossack_group_empress_mother = { Маголманд
+cossack_group_empress_mother = { Маголманд
 	type = character
 	gender = female
 	special = queen_mother
@@ -56,5 +56,5 @@ kossack_group_empress_mother = { Маголманд
 	priority = 75
 	top_liege = no
 	governments = { feudal_government clan_government tribal_government }
-	heritages = { heritage_kossack }
+	heritages = { heritage_cossack }
 }

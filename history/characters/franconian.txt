@@ -10663,7 +10663,7 @@
 31702 = {
 	name = "Adalhard" #count of Metz
 	dynasty = 667
-	religion = "catholic"
+	religion = "waldensian"
 	culture = franconian
 	father = 31701
 	810.1.2 = {
@@ -11463,7 +11463,7 @@
 163057 = {
 	name = "Unruoch"
 	dynasty = 12110
-	religion = "iconoclast"
+	religion = "catholic"
 	culture = franconian
 	father = 7909
 	mother = 7907
@@ -18033,7 +18033,7 @@
 }
 163052 = {
 	name = "Wilibert"
-	religion = "catholic"
+	religion = "waldensian"
 	culture = franconian
 	840.1.1 = {
 		birth = "840.1.1"
@@ -19327,7 +19327,7 @@
 
 167804 = {
 	name = "Lupus"
-	religion = "iconoclast"
+	religion = "catholic"
 	trait = education_learning_2
 	culture = franconian
 	820.1.1 = {
@@ -19340,7 +19340,7 @@
 
 167836 = {
 	name = "Hesso"		
-	religion = "iconoclast"	
+	religion = "catholic"	
 	culture = franconian
 	trait = education_learning_2		
 	820.1.1 = {		

@@ -5870,7 +5870,7 @@
 	name = "Haytham"
 	dynasty = 1029123
 	religion = "mazdayasna"
-	culture = "levantine"
+	culture = "daylamite"
 	father = 146076
 	822.1.1 = {
 		birth = yes
@@ -7208,8 +7208,8 @@
 	name = "Hamdan"
 	dynasty = 7518
 
-	culture = "levantine"
-	religion = "ismaili"
+	religion = khurramism
+	culture = kurdish
 
 	837.1.1 = {
 		birth = "837.1.1"
@@ -7991,8 +7991,8 @@ levantine000011 = { #Ayyub's father
 levantine000009 = { #Ruler in 867
 	name = "Ayyub"
 	dynasty = 1042127 #Banu Taghlib
-	religion = ashari
-	culture = levantine
+	religion = khurramism
+	culture = kurdish
 	father = levantine000011
 	
 	840.1.1 = {
@@ -8006,8 +8006,8 @@ levantine000009 = { #Ruler in 867
 levantine000012 = { #Ayyub's son
 	name = "Hasan"
 	dynasty = 1042127 #Banu Taghlib
-	religion = ashari
-	culture = levantine
+	religion = khurramism
+	culture = kurdish
 	father = levantine000009
 	
 	856.1.1 = {

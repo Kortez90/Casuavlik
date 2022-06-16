@@ -9,7 +9,7 @@
 	NON_RIGHTFUL_LIEGE_LEVY_MULT = 0.5 					# Tax mult when non-rightful liege
 	PARTIALLY_NON_RIGHTFUL_LIEGE_OPINION = -5 			# Opinion penalty for being non-rightful liege
 	NON_RIGHTFUL_LIEGE_OPINION = -5						# Opinion penalty for being partially non-rightful liege
-	MAX_DUCHIES_BEFORE_PENALTY = 4						# How many duchies are vassals fine with you having? If you're a duke, they don't care; only if you're king or above
+	MAX_DUCHIES_BEFORE_PENALTY = 5						# How many duchies are vassals fine with you having? If you're a duke, they don't care; only if you're king or above
 	TOO_MANY_DUCHIES_OPINION = -15						# Penalty per duchy too many
 	COUNT_LIEGE_HOLDS_MY_DUCHY = -25					# Penalty with count vassals for whom you hold their dejure duchy (and you're above duchy tier)
 	VASSAL_SIZE_ANGER_THRESHOLD = 0.3						# Ratio of counties in vassal's realm (duke or above) compared to liege's full realm in order for the vassal to get angry at liege

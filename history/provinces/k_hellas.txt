@@ -3,7 +3,7 @@
 ###c_attica
 482 = {		#Atheniai
 	culture = greek
-	religion = nestorian
+	religion = hellenic_pagan
 	holding = castle_holding
 	867.1.1 = {
 		buildings = {
@@ -30,7 +30,7 @@
 ###c_boeotia
 3728 = {	#Levadia
 	culture = greek
-	religion = nestorian
+	religion = hellenic_pagan
 	holding = castle_holding
 }
 3727 = {	#Boudounitsa AKA Mendenitsa
@@ -43,7 +43,7 @@
 ###c_euboea
 485 = {		#Euboia
 	culture = greek
-	religion = nestorian
+	religion = hellenic_pagan
 	holding = castle_holding
 }
 3725 = {	#Skopelos
@@ -62,7 +62,7 @@
 ###c_achaia
 476 = {		#Achaia
 	culture = greek
-	religion = nestorian
+	religion = iconoclast
 	holding = castle_holding
 }
 3801 = {	#Vostitsa AKA Aigio
@@ -84,7 +84,7 @@
 ###c_korinthos
 481 = {		#Korinthos
 	culture = greek
-	religion = nestorian
+	religion = iconoclast
 	holding = castle_holding
 }
 3732 = {	#Nikli AKA Tegea
@@ -101,7 +101,7 @@
 ###c_messenia
 3733 = {	#Karytaina
 	culture = greek
-	religion = nestorian
+	religion = iconoclast
 	holding = castle_holding
 }
 3734 = {	#Arcadia
@@ -121,7 +121,7 @@
 ###c_laconia
 3736 = {	#Mistra
 	culture = greek
-	religion = nestorian
+	religion = hellenic_pagan
 	holding = castle_holding
 }
 478 = {		#Monemvasia

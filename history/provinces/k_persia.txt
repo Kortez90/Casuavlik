@@ -348,7 +348,7 @@
 ###c_shiraz
 4177 = {	#Shiraz-farsi
 	culture = persian
-	religion = mazdayasna
+	religion = urartuism
 	holding = castle_holding
 	800.1.1 = { religion = ashari }
 }
@@ -370,7 +370,7 @@
 ###c_lar
 4093 = {	#Lar
 	culture = kurdish
-	religion = ismaili
+	religion = urartuism
 	holding = castle_holding
 	1160.1.1 = {
 		religion = ashari
@@ -389,7 +389,7 @@
 ###c_darabjerd
 4171 = {	#Darabjerd	#AKA Darab
 	culture = kurdish
-	religion = ismaili
+	religion = urartuism
 	holding = castle_holding
 	1160.1.1 = {
 		religion = ashari
@@ -412,7 +412,7 @@
 ###c_arrajan
 4305 = {	#Arrajan
 	culture = persian
-	religion = mazdayasna
+	religion = urartuism
 	holding = castle_holding
 	800.1.1 = { religion = ashari }
 }
@@ -440,7 +440,7 @@
 	religion = ismaili
 	holding = castle_holding
 	1160.1.1 = {
-		religion = ashari
+		religion = urartuism
 		culture = persian
 	}
 }
@@ -462,7 +462,7 @@
 ###c_mandestan
 4195 = {	#Mandestan
 	culture = persian
-	religion = mazdayasna
+	religion = urartuism
 	holding = castle_holding
 	1337.1.1 = {
 		religion = ashari
@@ -491,7 +491,7 @@
 ###c_irahistan
 4193 = {	#Naband
 	culture = persian
-	religion = mazdayasna
+	religion = urartuism
 	holding = castle_holding
 	1337.1.1 = {
 		religion = ashari
@@ -563,7 +563,7 @@
 	religion = mazdakism
 	holding = castle_holding
 	867.1.1 = {
-		religion = ashari
+		religion = urartuism
 		culture = bedouin
 	}
 }
@@ -583,7 +583,7 @@
 ###c_sardan
 4122 = {	#Lurijan
 	culture = persian
-	religion = ashari
+	religion = urartuism
 	holding = castle_holding
 }
 4123 = {	#Aruj
@@ -613,7 +613,7 @@
 ###c_tustar
 4256 = {	#Tustar
 	culture = persian
-	religion = ashari
+	religion = urartuism
 	holding = castle_holding
 }
 4257 = {	#Gondishapur	#AKA Gundeshapur
@@ -634,7 +634,7 @@
 ###c_abbadan
 6017 = {	#Abbadan
 	culture = bedouin
-	religion = ashari
+	religion = urartuism
 	holding = castle_holding
 	867.1.1 = { religion = ashari }
 }

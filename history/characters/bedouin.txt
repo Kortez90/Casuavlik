@@ -2,7 +2,7 @@
 	name = "Hasan" # ibn Zayd (great-great-grandson of Hasan ibn Zayd, governor of Medina)
 	dynasty = 7512 # Alavids of Tabaristan
 	religion = "mazdayasna"
-	culture = "bedouin"
+	culture = daylamite
 	father = 163128
 
 	#Skills
@@ -6713,8 +6713,8 @@
 163098 = {
 	name = "al-Aziz"
 	dynasty = 809 # Dulafid
-	religion = "ashari"
-	culture = "bedouin"
+	religion = "mazdayasna"
+	culture = daylamite
 	father = 188697
 	815.1.1 = {
 		birth = yes
@@ -6850,7 +6850,7 @@
 	dynasty = 12278
 
 	culture = "bedouin"
-	religion = "ismaili"
+	religion = "urartuism"
 
 	843.1.1 = {
 		birth = "843.1.1"
@@ -6864,7 +6864,7 @@
 	dynasty = 12279
 
 	culture = "bedouin"
-	religion = "ismaili"
+	religion = "urartuism"
 
 	829.1.1 = {
 		birth = "829.1.1"
@@ -6894,7 +6894,7 @@
 	dynasty = 1056
 
 	culture = "bedouin"
-	religion = "mazdakism"
+	religion = "ismaili"
 	trait = sayyid
 	father = 163130
 	846.1.1 = {
@@ -6909,7 +6909,7 @@
 	dynasty = 12281
 
 	culture = "bedouin"
-	religion = "mazdakism"
+	religion = "ashari"
 
 	840.1.1 = {
 		birth = "840.1.1"
@@ -7971,7 +7971,7 @@
 	name = "Dulaf"
 	dynasty = 809
 	religion = "mazdayasna"
-	culture = "bedouin"
+	culture = daylamite
 	father = 163098
 	835.1.1 = {
 		birth = "835.1.1"
@@ -7985,7 +7985,7 @@
 	name = "Ahmad"
 	dynasty = 809
 	religion = "mazdayasna"
-	culture = "bedouin"
+	culture = daylamite
 	father = 163098
 	840.1.1 = {
 		birth = "840.1.1"
@@ -7999,7 +7999,7 @@
 	name = "Muhammad"
 	dynasty = 7512
 	religion = "mazdayasna"
-	culture = "bedouin"
+	culture = daylamite
 	trait = sayyid
 	father = 163128
 	832.1.1 = {
@@ -11901,7 +11901,7 @@ bedouin0017 = {
 bedouin0018 = {
 	name = "Abu_Abdallah"
 	dynasty = bedouindyn002 #al-Umari
-	religion = "ashari"
+	religion = "conversos"
 	culture = bedouin
 	father = bedouin0017
 	825.1.1 = {
@@ -11915,7 +11915,7 @@ bedouin0018 = {
 bedouin0019 = {
 	name = "Jafar"
 	dynasty = bedouindyn003 #Rabia of Allaqi
-	religion = "ashari"
+	religion = "conversos"
 	culture = bedouin
 	840.1.1 = {
 		birth = yes
@@ -12127,7 +12127,7 @@ bedouin0034 = {
 bedouin0035 = {
 	name = "Amr"
 	dynasty = bedouindyn005 #Mudar
-	religion = "ashari"
+	religion = "conversos"
 	culture = bedouin
 	father = bedouin0034
 	838.1.1 = {
@@ -12194,7 +12194,7 @@ bedouin0039 = {
 bedouin0040 = {
 	name = "A_wA_r"
 	dynasty = 101671
-	religion = "mazdayasna"
+	religion = "ashari"
 	culture = "bedouin"
 	father = bedouin0041
 	867.1.1 = {
@@ -12207,7 +12207,7 @@ bedouin0040 = {
 bedouin0041 = {
 	name = "Yazid"
 	dynasty = 101671
-	religion = "mazdayasna"
+	religion = "ashari"
 	culture = "bedouin"
 	father = bedouin0042
 	840.1.1 = {
@@ -12285,7 +12285,7 @@ bedouin0046 = {
 bedouin0047 = {
 	name = "ShabI_b"
 	dynasty = bedouindyn006
-	religion = "mazdakism"
+	religion = "ashari"
 	culture = "bedouin"
 	father = bedouin0046
 	843.1.1 = {
@@ -12311,7 +12311,7 @@ bedouin0048 = {
 bedouin0049 = {
 	name = "Utayr"
 	dynasty = bedouindyn006
-	religion = "mazdakism"
+	religion = "ashari"
 	culture = "bedouin"
 	father = bedouin0048
 	836.1.1 = {
@@ -12376,7 +12376,7 @@ bedouin0054 = {
 bedouin0055 = {
 	name = "UmA_ra"
 	dynasty = bedouindyn008
-	religion = "mazdakism"
+	religion = "ashari"
 	culture = "bedouin"
 	father = bedouin0054
 	841.1.1 = {
@@ -12404,7 +12404,7 @@ bedouin0056 = {
 bedouin0057 = {
 	name = "Hisham"
 	dynasty = bedouindyn009
-	religion = "mazdakism"
+	religion = "ashari"
 	culture = "bedouin"
 	840.1.1 = {
 		birth = yes
@@ -12471,7 +12471,7 @@ bedouin0061 = {
 bedouin0062 = {
 	name = "Usayd"
 	dynasty = bedouindyn010 #Tayyid
-	religion = "mazdakism"
+	religion = "ashari"
 	culture = "bedouin"
 	838.1.1 = {
 		birth = yes
